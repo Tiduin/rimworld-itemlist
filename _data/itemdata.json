@@ -3327,19 +3327,6 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Gun_InfernoCannon": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "RimWorld",
-    "KarmaType": null
-  },
   "Bow_Short": {
     "CustomName": null,
     "HasQuantityLimit": false,
