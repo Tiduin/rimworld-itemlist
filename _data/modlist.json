@@ -186,6 +186,12 @@
     "version": null
   },
   {
+    "author": "m00nl1ght-dev",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Performance Analyzer",
     "steamId": "2038874626",
@@ -243,7 +249,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.1.45"
+    "version": "1.1.46"
   },
   {
     "author": "Oskar Potocki,  Helixien,  Erin,  Luizi,  ISOREX and  erdelf",
