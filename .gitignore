@@ -5,3 +5,10 @@ _site
 vendor
 .vscode/settings.json
 .liquidrc
+_data/ViewerData.json
+_data/StoreItems.bak
+_data/ShopExt.bak
+_data/modlist.bak
+_data/itemdata.bak
+_data/eventdata.bak
+_data/commands.bak
