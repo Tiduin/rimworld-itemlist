@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 3500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 7000,
+		"price": 6000,
 		"karmatype": "Bad"
 	},
 	{
@@ -62,17 +62,17 @@
 	},
 	{
 		"abr": "flashstorm",
-		"price": 400,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -87,7 +87,7 @@
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 7000,
 		"karmatype": "Doom"
 	},
 	{
@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -132,17 +132,17 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
-		"price": 800,
+		"price": 200,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 1000,
+		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
@@ -207,7 +207,7 @@
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 2500,
+		"price": 1900,
 		"karmatype": "Bad"
 	},
 	{
@@ -221,38 +221,13 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "raid",
+		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "dropraid",
-		"price": 3500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 3500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 4500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 4500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "infestation",
-		"price": 4500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "manhunterpack",
-		"price": 3500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -262,12 +237,12 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 2000,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "disease",
-		"price": 2500,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -436,5 +411,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 82
 }
