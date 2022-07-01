@@ -16,9 +16,14 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "solarflare",
-		"price": 3000,
-		"karmatype": "Bad"
+		"abr": "snowgentle",
+		"price": 350,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fog",
+		"price": 300,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "eclipse",
@@ -52,7 +57,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 2500,
+		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
@@ -73,11 +78,6 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -112,7 +112,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 1000,
+		"price": 700,
 		"karmatype": "Good"
 	},
 	{
@@ -197,7 +197,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -207,12 +207,12 @@
 	},
 	{
 		"abr": "passion",
-		"price": 5000,
+		"price": 7000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removepassion",
-		"price": 3000,
+		"price": 5000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -254,17 +254,7 @@
 		"abr": "randomadulthood",
 		"price": 3000,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "sanctuary",
-		"price": 100000,
-		"karmatype": "Good"
 	}
 	],
-	"total": 53
+	"total": 51
 }

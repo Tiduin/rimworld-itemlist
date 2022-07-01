@@ -72,6 +72,12 @@
     "version": null
   },
   {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Fluffy",
     "name": "Blueprints",
     "steamId": "708455313",
@@ -201,7 +207,7 @@
     "author": "m00nl1ght-dev",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.0.0.0"
+    "version": "1.4.3.0"
   },
   {
     "author": "Falconne",
@@ -231,7 +237,7 @@
     "author": "m00nl1ght-dev",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "0.0.0.0"
+    "version": "1.9.9.0"
   },
   {
     "author": "Fluffy",
@@ -321,7 +327,7 @@
     "author": "Mlie",
     "name": "Prisoners Should Fear Turrets",
     "steamId": "2602436826",
-    "version": "1.0.3.0"
+    "version": "1.3.1"
   },
   {
     "author": "Neptimus7",
@@ -459,7 +465,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.5"
+    "version": "6.2.0.7"
   },
   {
     "author": "TimmyLiang",
@@ -564,12 +570,6 @@
     "version": null
   },
   {
-    "author": "Wemd",
-    "name": "[WD] Partially-Passable Wind Turbines",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "CarbonTNT",
     "name": "ez infestation",
     "steamId": null,
@@ -582,26 +582,98 @@
     "version": "0.6.3.2196"
   },
   {
+    "author": "Telkir",
+    "name": "[T] MoreFloors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bucko",
+    "name": "Royal Arsenal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bucko",
+    "name": "Royal Arsenal - Buildable Aerodrones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Updated by Ogliss",
+    "name": "Pawn Badge Fan Fork [Adopted]",
+    "steamId": "2526040241",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Doug",
+    "name": "No Job Authors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Colony Manager",
+    "steamId": "715565262",
+    "version": "4.33.649"
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Ykara",
-    "name": "Expanded Prosthetics and Organ Engineering",
+    "author": "Haplo",
+    "name": "Misc. Bees'n'Honey",
     "steamId": null,
     "version": null
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Advanced Bionics Expansion",
+    "author": "Ratys",
+    "name": "RT Fuse",
+    "steamId": "728314182",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - Vanilla Trait Colors",
     "steamId": null,
     "version": null
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Bionic icons",
+    "author": "Roolo and Updated by Ogliss",
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CodeOptimist",
+    "name": "While You're Up / PUAH+",
+    "steamId": "2034960453",
+    "version": "3.1.4.2343"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Dynamic Portraits",
+    "steamId": "2253730555",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Victorique,  Aurani and  Tarojun",
+    "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Victorique,  Aurani and  Tarojun",
+    "name": "EPOE-Forked: Royalty DLC expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JonM0",
+    "name": "Medical System Expansion 2",
     "steamId": null,
     "version": null
   }

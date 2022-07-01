@@ -1022,7 +1022,7 @@
     },
     {
       "abr": "powerclaw",
-      "category": "Prosthetic",
+      "category": "Modules",
       "defname": "PowerClaw",
       "price": 642
     },
@@ -2354,13 +2354,13 @@
     },
     {
       "abr": "aestheticnose",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "AestheticNose",
       "price": 975
     },
     {
       "abr": "aestheticshaper",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "AestheticShaper",
       "price": 1383
     },
@@ -2426,7 +2426,7 @@
     },
     {
       "abr": "armorskingland",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "ArmorskinGland",
       "price": 2458
     },
@@ -2600,13 +2600,13 @@
     },
     {
       "abr": "circadianassistant",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "CircadianAssistant",
       "price": 1717
     },
     {
       "abr": "circadianhalf-cycler",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "CircadianHalfCycler",
       "price": 1717
     },
@@ -2618,7 +2618,7 @@
     },
     {
       "abr": "coagulator",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "Coagulator",
       "price": 1717
     },
@@ -2690,7 +2690,7 @@
     },
     {
       "abr": "detoxifierstomach",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "DetoxifierStomach",
       "price": 1717
     },
@@ -2882,7 +2882,7 @@
     },
     {
       "abr": "gastro-analyzer",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "GastroAnalyzer",
       "price": 1383
     },
@@ -2966,7 +2966,7 @@
     },
     {
       "abr": "healingenhancer",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "HealingEnhancer",
       "price": 1717
     },
@@ -3008,7 +3008,7 @@
     },
     {
       "abr": "immunoenhancer",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "Immunoenhancer",
       "price": 1717
     },
@@ -3116,7 +3116,7 @@
     },
     {
       "abr": "learningassistant",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "LearningAssistant",
       "price": 1717
     },
@@ -3152,7 +3152,7 @@
     },
     {
       "abr": "loveenhancer",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "LoveEnhancer",
       "price": 1717
     },
@@ -3284,13 +3284,13 @@
     },
     {
       "abr": "neurocalculator",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "Neurocalculator",
       "price": 1717
     },
     {
       "abr": "nuclearstomach",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "NuclearStomach",
       "price": 1717
     },
@@ -3698,7 +3698,7 @@
     },
     {
       "abr": "reprocessorstomach",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "ReprocessorStomach",
       "price": 1717
     },
@@ -4004,7 +4004,7 @@
     },
     {
       "abr": "stoneskingland",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "StoneskinGland",
       "price": 3200
     },
@@ -4148,7 +4148,7 @@
     },
     {
       "abr": "toughskingland",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "ToughskinGland",
       "price": 1717
     },
@@ -5923,48 +5923,6 @@
       "price": 917
     },
     {
-      "abr": "advancedbionicarm",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicArm",
-      "price": 3050
-    },
-    {
-      "abr": "advancedbionicarm",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicArm",
-      "price": 3450
-    },
-    {
-      "abr": "advancedbionicbladder",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicBladder",
-      "price": 2308
-    },
-    {
-      "abr": "advancedbionicbreachingarm",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicBreachArm",
-      "price": 5942
-    },
-    {
-      "abr": "advancedbionicconstructionarm",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicConstructionArm",
-      "price": 6392
-    },
-    {
-      "abr": "advancedbionicdrillarm",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicDrillArm",
-      "price": 6392
-    },
-    {
-      "abr": "advancedbionicear",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicEar",
-      "price": 2308
-    },
-    {
       "abr": "advancedbionicear",
       "category": "Ultratech",
       "defname": "AdvancedBionicEar",
@@ -5973,38 +5931,8 @@
     {
       "abr": "advancedbioniceye",
       "category": "Ultratech",
-      "defname": "FSFAdvBionicEye",
-      "price": 2975
-    },
-    {
-      "abr": "advancedbioniceye",
-      "category": "Ultratech",
       "defname": "AdvancedBionicEye",
       "price": 2150
-    },
-    {
-      "abr": "advancedbionicfieldarm",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicFieldArm",
-      "price": 6392
-    },
-    {
-      "abr": "advancedbionicfoot",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicFoot",
-      "price": 2042
-    },
-    {
-      "abr": "advancedbionichand",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicHand",
-      "price": 2042
-    },
-    {
-      "abr": "advancedbionicheart",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicHeart",
-      "price": 2383
     },
     {
       "abr": "advancedbionicjaw",
@@ -6013,100 +5941,10 @@
       "price": 1967
     },
     {
-      "abr": "advancedbionicjaw",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicJaw",
-      "price": 2308
-    },
-    {
-      "abr": "advancedbionickidney",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicKidney",
-      "price": 2308
-    },
-    {
-      "abr": "advancedbionicleg",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicLeg",
-      "price": 3450
-    },
-    {
-      "abr": "advancedbionicleg",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicLeg",
-      "price": 3050
-    },
-    {
-      "abr": "advancedbionicliver",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicLiver",
-      "price": 2308
-    },
-    {
-      "abr": "advancedbioniclung",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicLung",
-      "price": 2383
-    },
-    {
-      "abr": "advancedbionicpowerarm",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicPowerArm",
-      "price": 5942
-    },
-    {
-      "abr": "advancedbionicshockerarm",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicTaserArm",
-      "price": 5942
-    },
-    {
       "abr": "advancedbionicspine",
       "category": "Ultratech",
       "defname": "AdvancedBionicSpine",
       "price": 2733
-    },
-    {
-      "abr": "advancedbionicspine",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicSpine",
-      "price": 3050
-    },
-    {
-      "abr": "advancedbionicstomach",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicStomach",
-      "price": 2308
-    },
-    {
-      "abr": "advancedhygieneenhancer",
-      "category": "Ultratech",
-      "defname": "FSFAdvHygieneEnhancer",
-      "price": 2308
-    },
-    {
-      "abr": "advancedpowerarm",
-      "category": "Ultratech",
-      "defname": "AdvancedPowerArm",
-      "price": 5225
-    },
-    {
-      "abr": "advancedpowerclaw",
-      "category": "Ultratech",
-      "defname": "AdvancedPowerClaw",
-      "price": 2267
-    },
-    {
-      "abr": "advancedshockerjaw",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicTaserJaw",
-      "price": 4458
-    },
-    {
-      "abr": "agriculturalassistant",
-      "category": "Ultratech",
-      "defname": "FSFImplantBrainPlants",
-      "price": 1717
     },
     {
       "abr": "aichip",
@@ -6115,76 +5953,10 @@
       "price": 2133
     },
     {
-      "abr": "archotechear",
-      "category": "Archotech",
-      "defname": "FSFArchotechEar",
-      "price": 4300
-    },
-    {
-      "abr": "archotechheart",
-      "category": "Archotech",
-      "defname": "FSFArchotechHeart",
-      "price": 4450
-    },
-    {
-      "abr": "archotechjaw",
-      "category": "Archotech",
-      "defname": "FSFArchotechJaw",
-      "price": 4300
-    },
-    {
-      "abr": "archotechkidney",
-      "category": "Archotech",
-      "defname": "FSFArchotechKidney",
-      "price": 4300
-    },
-    {
-      "abr": "archotechliver",
-      "category": "Archotech",
-      "defname": "FSFArchotechLiver",
-      "price": 4300
-    },
-    {
-      "abr": "archotechlung",
-      "category": "Archotech",
-      "defname": "FSFArchotechLung",
-      "price": 4450
-    },
-    {
-      "abr": "archotechpowerarm",
-      "category": "Archotech",
-      "defname": "FSFArchotechPowerArm",
-      "price": 11567
-    },
-    {
-      "abr": "archotechpowercore",
-      "category": "Archotech",
-      "defname": "FSFArchotechPowerCore",
-      "price": 8600
-    },
-    {
-      "abr": "archotechspine",
-      "category": "Archotech",
-      "defname": "FSFArchotechSpine",
-      "price": 5783
-    },
-    {
-      "abr": "archotechstomach",
-      "category": "Archotech",
-      "defname": "FSFArchotechStomach",
-      "price": 4300
-    },
-    {
       "abr": "arm",
       "category": "Natural",
       "defname": "Arm",
       "price": 2167
-    },
-    {
-      "abr": "artificialclavicle",
-      "category": "Prosthetic",
-      "defname": "ArtificialClavicle",
-      "price": 141
     },
     {
       "abr": "artificialnose",
@@ -6193,70 +5965,34 @@
       "price": 330
     },
     {
-      "abr": "artificialnose",
-      "category": "Prosthetic",
-      "defname": "FSFArtificialNose",
-      "price": 313
-    },
-    {
-      "abr": "artificialpelvis",
-      "category": "Prosthetic",
-      "defname": "ArtificialPelvis",
-      "price": 475
-    },
-    {
       "abr": "auxiliaryai(agricultural)",
-      "category": "Archotech",
+      "category": "Ultratech",
       "defname": "FarmerCore",
       "price": 5833
     },
     {
       "abr": "auxiliaryai(constructing)",
-      "category": "Archotech",
+      "category": "Ultratech",
       "defname": "ConstructorCore",
       "price": 5833
     },
     {
       "abr": "auxiliaryai(diplomatic)",
-      "category": "Archotech",
+      "category": "Ultratech",
       "defname": "DiplomatCore",
       "price": 5833
     },
     {
       "abr": "auxiliaryai(medical)",
-      "category": "Archotech",
+      "category": "Ultratech",
       "defname": "DoctorCore",
       "price": 5833
     },
     {
       "abr": "auxiliaryai(mining)",
-      "category": "Archotech",
+      "category": "Ultratech",
       "defname": "MinerCore",
       "price": 5833
-    },
-    {
-      "abr": "bionicbreachingarm",
-      "category": "Bionic",
-      "defname": "FSFBionicBreachArm",
-      "price": 3500
-    },
-    {
-      "abr": "bionicconstructionarm",
-      "category": "Bionic",
-      "defname": "FSFBionicConstructionArm",
-      "price": 3500
-    },
-    {
-      "abr": "bionicdrillarm",
-      "category": "Bionic",
-      "defname": "FSFBionicDrillArm",
-      "price": 3592
-    },
-    {
-      "abr": "bionicfieldarm",
-      "category": "Bionic",
-      "defname": "FSFBionicFieldArm",
-      "price": 3592
     },
     {
       "abr": "bionicfoot",
@@ -6277,82 +6013,10 @@
       "price": 908
     },
     {
-      "abr": "bionicjaw",
-      "category": "Bionic",
-      "defname": "FSFBionicJaw",
-      "price": 1308
-    },
-    {
-      "abr": "bionickidney",
-      "category": "Bionic",
-      "defname": "FSFBionicKidney",
-      "price": 1308
-    },
-    {
-      "abr": "bionicliver",
-      "category": "Bionic",
-      "defname": "FSFBionicLiver",
-      "price": 1308
-    },
-    {
-      "abr": "bioniclung",
-      "category": "Bionic",
-      "defname": "FSFBionicLung",
-      "price": 1383
-    },
-    {
-      "abr": "bionicpowerarm",
-      "category": "Bionic",
-      "defname": "FSFBionicPowerArm",
-      "price": 4092
-    },
-    {
       "abr": "brainstimulator",
       "category": "Prosthetic",
       "defname": "BrainStimulator",
       "price": 1333
-    },
-    {
-      "abr": "climatecontrol",
-      "category": "Ultratech",
-      "defname": "FSFImplantTorsoClimateControl",
-      "price": 1717
-    },
-    {
-      "abr": "coffee",
-      "category": "Drugs",
-      "defname": "SyrCoffee",
-      "price": 25
-    },
-    {
-      "abr": "coffeebeans",
-      "category": "Plant matter",
-      "defname": "SyrRawCoffee",
-      "price": 3
-    },
-    {
-      "abr": "cqcassistant",
-      "category": "Ultratech",
-      "defname": "FSFImplantBrainMeleeCombat",
-      "price": 1717
-    },
-    {
-      "abr": "darklightmodule",
-      "category": "Ultratech",
-      "defname": "FSFImplantBrainDarklight",
-      "price": 1717
-    },
-    {
-      "abr": "denture",
-      "category": "Simple parts",
-      "defname": "denture",
-      "price": 65
-    },
-    {
-      "abr": "diamond",
-      "category": "Raw resources",
-      "defname": "Diamond",
-      "price": 12
     },
     {
       "abr": "druggedribreplacement",
@@ -6367,70 +6031,16 @@
       "price": 833
     },
     {
-      "abr": "earbandage",
-      "category": "Simple parts",
-      "defname": "EarBandage",
-      "price": 65
-    },
-    {
-      "abr": "ethologyassistant",
-      "category": "Ultratech",
-      "defname": "FSFImplantBrainAnimals",
-      "price": 1717
-    },
-    {
       "abr": "exoskeletonsuit",
       "category": "Ultratech",
       "defname": "ExoskeletonSuit",
       "price": 3708
     },
     {
-      "abr": "eyepatch",
-      "category": "Simple parts",
-      "defname": "EyePatch",
-      "price": 65
-    },
-    {
       "abr": "eyeball",
       "category": "Natural",
       "defname": "Eye",
       "price": 2500
-    },
-    {
-      "abr": "glasspane",
-      "category": "Manufactured",
-      "defname": "GlassPane",
-      "price": 22
-    },
-    {
-      "abr": "goldbracelet",
-      "category": "Apparel",
-      "defname": "Jewelry_Bracelet",
-      "price": 417
-    },
-    {
-      "abr": "goldearring",
-      "category": "Apparel",
-      "defname": "Jewelry_Earring",
-      "price": 267
-    },
-    {
-      "abr": "goldeltexnecklace",
-      "category": "Apparel",
-      "defname": "Jewelry_PsychicNecklace",
-      "price": 750
-    },
-    {
-      "abr": "goldnecklace",
-      "category": "Apparel",
-      "defname": "Jewelry_Necklace",
-      "price": 600
-    },
-    {
-      "abr": "goldring",
-      "category": "Apparel",
-      "defname": "Jewelry_Ring",
-      "price": 250
     },
     {
       "abr": "goldeneye",
@@ -6440,15 +6050,9 @@
     },
     {
       "abr": "hookhand",
-      "category": "Simple parts",
+      "category": "Prosthetic",
       "defname": "HookHand",
       "price": 94
-    },
-    {
-      "abr": "hotchocolate",
-      "category": "Drugs",
-      "defname": "SyrHotChocolate",
-      "price": 13
     },
     {
       "abr": "hydraulicjaw",
@@ -6457,22 +6061,10 @@
       "price": 279
     },
     {
-      "abr": "internalrespirator",
-      "category": "Ultratech",
-      "defname": "FSFImplantTorsoRespirator",
-      "price": 1717
-    },
-    {
       "abr": "jaw",
       "category": "Natural",
       "defname": "Jaw",
       "price": 833
-    },
-    {
-      "abr": "lasersculptingtable",
-      "category": "Production",
-      "defname": "LaserTableSculpting",
-      "price": 850
     },
     {
       "abr": "leg",
@@ -6487,12 +6079,6 @@
       "price": 508
     },
     {
-      "abr": "medicalassistant",
-      "category": "Ultratech",
-      "defname": "FSFImplantBrainMedical",
-      "price": 1717
-    },
-    {
       "abr": "medicalribreplacement",
       "category": "Bionic",
       "defname": "MedicalRib",
@@ -6500,7 +6086,7 @@
     },
     {
       "abr": "musclestimulator",
-      "category": "Archotech",
+      "category": "Bionic",
       "defname": "MuscleStimulator",
       "price": 4167
     },
@@ -6515,108 +6101,6 @@
       "category": "Bionic",
       "defname": "PainkillerRib",
       "price": 833
-    },
-    {
-      "abr": "pegleg",
-      "category": "Simple parts",
-      "defname": "PegLeg",
-      "price": 115
-    },
-    {
-      "abr": "positronicbrain",
-      "category": "Ultratech",
-      "defname": "FSFAdvBionicBrain",
-      "price": 7050
-    },
-    {
-      "abr": "powerarm",
-      "category": "Bionic",
-      "defname": "PowerArm",
-      "price": 3500
-    },
-    {
-      "abr": "prostheticeye",
-      "category": "Prosthetic",
-      "defname": "FSFProstheticEye",
-      "price": 367
-    },
-    {
-      "abr": "prostheticfoot",
-      "category": "Prosthetic",
-      "defname": "FSFProstheticFoot",
-      "price": 228
-    },
-    {
-      "abr": "prosthetichand",
-      "category": "Prosthetic",
-      "defname": "FSFProstheticHand",
-      "price": 228
-    },
-    {
-      "abr": "prosthetickidney",
-      "category": "Prosthetic",
-      "defname": "FSFSimpleProstheticKidney",
-      "price": 367
-    },
-    {
-      "abr": "prostheticliver",
-      "category": "Prosthetic",
-      "defname": "FSFSimpleProstheticLiver",
-      "price": 367
-    },
-    {
-      "abr": "prostheticlung",
-      "category": "Prosthetic",
-      "defname": "FSFSimpleProstheticLung",
-      "price": 383
-    },
-    {
-      "abr": "prostheticspine",
-      "category": "Prosthetic",
-      "defname": "FSFProstheticSpine",
-      "price": 400
-    },
-    {
-      "abr": "prostheticstomach",
-      "category": "Prosthetic",
-      "defname": "FSFSimpleProstheticStomach",
-      "price": 367
-    },
-    {
-      "abr": "prostheticstable",
-      "category": "Production",
-      "defname": "TableProsthetics",
-      "price": 3325
-    },
-    {
-      "abr": "psychicframe",
-      "category": "Ultratech",
-      "defname": "FSFImplantTorsoPsychic",
-      "price": 5058
-    },
-    {
-      "abr": "psychicheatsink",
-      "category": "Archotech",
-      "defname": "FSFArchotechPsychicHeatsink",
-      "price": 1667
-    },
-    {
-      "abr": "resurrectioncore",
-      "category": "Ultratech",
-      "defname": "FSFImplantTorsoResurrect",
-      "price": 4167
-    },
-    {
-      "abr": "ruby",
-      "category": "Raw resources",
-      "defname": "Ruby",
-      "price": 10
-    },
-    {
-      "abr": "sapphire",
-      "category": "Raw resources",
-      "defname": "Sapphire",
-      "price": 10
     },
     {
       "abr": "sentientplantskin",
@@ -6641,36 +6125,6 @@
       "category": "Bionic",
       "defname": "SilentJaw",
       "price": 583
-    },
-    {
-      "abr": "silverbracelet",
-      "category": "Apparel",
-      "defname": "Jewelry_Bracelet_Silver",
-      "price": 417
-    },
-    {
-      "abr": "silverearring",
-      "category": "Apparel",
-      "defname": "Jewelry_Earring_Silver",
-      "price": 267
-    },
-    {
-      "abr": "silvereltexnecklace",
-      "category": "Apparel",
-      "defname": "Jewelry_PsychicNecklace_Silver",
-      "price": 750
-    },
-    {
-      "abr": "silvernecklace",
-      "category": "Apparel",
-      "defname": "Jewelry_Necklace_Silver",
-      "price": 600
-    },
-    {
-      "abr": "silverring",
-      "category": "Apparel",
-      "defname": "Jewelry_Ring_Silver",
-      "price": 250
     },
     {
       "abr": "simpleprostheticfoot",
@@ -6727,62 +6181,14 @@
       "price": 583
     },
     {
-      "abr": "sprinterframe",
-      "category": "Ultratech",
-      "defname": "FSFImplantTorsoSpeed",
-      "price": 5658
-    },
-    {
       "abr": "squidmeat",
       "category": "Meat",
       "defname": "Meat_AA_SandSquid",
       "price": 3
     },
     {
-      "abr": "sraf:canary",
-      "category": "Buildings",
-      "defname": "SRAF",
-      "price": 20258
-    },
-    {
-      "abr": "sraf:tek-7",
-      "category": "Buildings",
-      "defname": "SRAFTek",
-      "price": 31292
-    },
-    {
-      "abr": "srtsmk.i:skip",
-      "category": "Buildings",
-      "defname": "SRTSSkip",
-      "price": 9150
-    },
-    {
-      "abr": "srtsmk.ii:albatross",
-      "category": "Buildings",
-      "defname": "SRTSMkII",
-      "price": 29875
-    },
-    {
-      "abr": "srtsmk.iii:phoenix",
-      "category": "Buildings",
-      "defname": "SRTSMkIII",
-      "price": 52792
-    },
-    {
-      "abr": "srtsmk.iiip:pelican",
-      "category": "Buildings",
-      "defname": "SRTSMkIIIp",
-      "price": 61100
-    },
-    {
-      "abr": "srtsmk.iv:genesis",
-      "category": "Buildings",
-      "defname": "SRTSMkIV",
-      "price": 218617
-    },
-    {
       "abr": "steelarm",
-      "category": "Simple parts",
+      "category": "Prosthetic",
       "defname": "SteelArm",
       "price": 173
     },
@@ -6797,12 +6203,6 @@
       "category": "Animals",
       "defname": "AA_SummitCrab",
       "price": 2500
-    },
-    {
-      "abr": "superpod",
-      "category": "Buildings",
-      "defname": "SRTSSuperpod",
-      "price": 6958
     },
     {
       "abr": "surrogatekidney",
@@ -6853,14 +6253,8 @@
       "price": 1183
     },
     {
-      "abr": "syntheticskingland",
-      "category": "Archotech",
-      "defname": "FSFArchotechSkinI",
-      "price": 6083
-    },
-    {
       "abr": "tacticalcorneaimplant",
-      "category": "Archotech",
+      "category": "Ultratech",
       "defname": "TacticalCorneaImplant",
       "price": 4167
     },
@@ -6869,54 +6263,6 @@
       "category": "Animals",
       "defname": "AA_TarGuzzler",
       "price": 250
-    },
-    {
-      "abr": "targetingassistant",
-      "category": "Ultratech",
-      "defname": "FSFImplantBrainRangedCombat",
-      "price": 1717
-    },
-    {
-      "abr": "tea",
-      "category": "Drugs",
-      "defname": "SyrTea",
-      "price": 25
-    },
-    {
-      "abr": "tealeaves",
-      "category": "Plant matter",
-      "defname": "SyrRawTea",
-      "price": 3
-    },
-    {
-      "abr": "techprint(advancedbionics)",
-      "category": "Techprints",
-      "defname": "Techprint_FSFAdvancedBionics",
-      "price": 3333
-    },
-    {
-      "abr": "techprint(advancedbodyframes)",
-      "category": "Techprints",
-      "defname": "Techprint_FSFResearchAdvancedBodyFrames",
-      "price": 3333
-    },
-    {
-      "abr": "techprint(advancedcombatimplants)",
-      "category": "Techprints",
-      "defname": "Techprint_FSFResearchCombatImplants",
-      "price": 3333
-    },
-    {
-      "abr": "techprint(advancedenvironmentalimplants)",
-      "category": "Techprints",
-      "defname": "Techprint_FSFResearchEnvironmentalImplants",
-      "price": 3333
-    },
-    {
-      "abr": "techprint(advancedspecializedlimbs)",
-      "category": "Techprints",
-      "defname": "Techprint_FSFAdvancedSpecializedLimbs",
-      "price": 3333
     },
     {
       "abr": "techprint(psyfocusequipment)",
@@ -7063,17 +6409,851 @@
       "price": 1250
     },
     {
-      "abr": "woodenfoot",
-      "category": "Simple parts",
-      "defname": "WoodenFoot",
-      "price": 65
+      "abr": "advancedprocessingmodule",
+      "category": "Modules",
+      "defname": "ModuleEfficiency",
+      "price": 1858
     },
     {
-      "abr": "workerframe",
+      "abr": "aerodrone",
+      "category": "Buildings",
+      "defname": "BuildableAerodrone",
+      "price": 8333
+    },
+    {
+      "abr": "aerodronehigh-yieldtargeter",
+      "category": "Utility",
+      "defname": "RA_AerodroneHighYieldTargeter",
+      "price": 1333
+    },
+    {
+      "abr": "aerodronehub",
+      "category": "Production",
+      "defname": "RA_AerodroneHub",
+      "price": 1000
+    },
+    {
+      "abr": "aerodronesalvotargeter",
+      "category": "Utility",
+      "defname": "RA_AerodroneSalvoTargeter",
+      "price": 2000
+    },
+    {
+      "abr": "aerodronestriketargeter",
+      "category": "Utility",
+      "defname": "RA_AerodroneStrikeTargeter",
+      "price": 667
+    },
+    {
+      "abr": "aimanager",
+      "category": "Production",
+      "defname": "FM_AIManager",
+      "price": 7833
+    },
+    {
+      "abr": "archotechfinger",
+      "category": "Archotech",
+      "defname": "ArchotechFinger",
+      "price": 417
+    },
+    {
+      "abr": "archotechfoot",
+      "category": "Archotech",
+      "defname": "ArchotechFoot",
+      "price": 750
+    },
+    {
+      "abr": "archotechforearm",
+      "category": "Archotech",
+      "defname": "ArchotechForearm",
+      "price": 583
+    },
+    {
+      "abr": "archotechhand",
+      "category": "Archotech",
+      "defname": "ArchotechHand",
+      "price": 500
+    },
+    {
+      "abr": "archotechinternalsupport",
+      "category": "Archotech",
+      "defname": "ArchotechInternalSupport",
+      "price": 333
+    },
+    {
+      "abr": "archotechtoe",
+      "category": "Archotech",
+      "defname": "ArchotechToe",
+      "price": 333
+    },
+    {
+      "abr": "auxiliaryai(brawler)",
       "category": "Ultratech",
-      "defname": "FSFImplantTorsoWorker",
-      "price": 5742
+      "defname": "EPIA_AuxiliaryAI_Brawler",
+      "price": 4333
+    },
+    {
+      "abr": "auxiliaryai(commando)",
+      "category": "Ultratech",
+      "defname": "EPIA_AuxiliaryAI_Commando",
+      "price": 4333
+    },
+    {
+      "abr": "auxiliaryai(sharpshooter)",
+      "category": "Ultratech",
+      "defname": "EPIA_AuxiliaryAI_Sharpshooter",
+      "price": 4333
+    },
+    {
+      "abr": "basicmanagerdesk",
+      "category": "Production",
+      "defname": "FM_BasicManagerStation",
+      "price": 262
+    },
+    {
+      "abr": "beehive",
+      "category": "Production",
+      "defname": "Misc_Beehive",
+      "price": 908
+    },
+    {
+      "abr": "bionicfinger",
+      "category": "Bionic",
+      "defname": "BionicFinger",
+      "price": 375
+    },
+    {
+      "abr": "bionicforearm",
+      "category": "Bionic",
+      "defname": "BionicForearm",
+      "price": 350
+    },
+    {
+      "abr": "bionicinternalsupport",
+      "category": "Bionic",
+      "defname": "BionicInternalSupport",
+      "price": 191
+    },
+    {
+      "abr": "bionictoe",
+      "category": "Bionic",
+      "defname": "BionicToe",
+      "price": 305
+    },
+    {
+      "abr": "bionicsworkbench",
+      "category": "Production",
+      "defname": "TableBionics",
+      "price": 1433
+    },
+    {
+      "abr": "blankribreplacement",
+      "category": "Bionic",
+      "defname": "SimpleRib",
+      "price": 583
+    },
+    {
+      "abr": "bobeene",
+      "category": "Animals",
+      "defname": "AA_Bobeene",
+      "price": 917
+    },
+    {
+      "abr": "cargodrone",
+      "category": "Buildings",
+      "defname": "BuildableCargodrone",
+      "price": 13275
+    },
+    {
+      "abr": "circadianrefresher",
+      "category": "Bionic",
+      "defname": "EPIA_CircadianRefresher",
+      "price": 1717
+    },
+    {
+      "abr": "circuitbreaker",
+      "category": "Power",
+      "defname": "Building_RTCircuitBreaker",
+      "price": 278
+    },
+    {
+      "abr": "coagulatorribimplant",
+      "category": "Bionic",
+      "defname": "CoagulatorRib",
+      "price": 1083
+    },
+    {
+      "abr": "coffee",
+      "category": "Drugs",
+      "defname": "SyrCoffee",
+      "price": 25
+    },
+    {
+      "abr": "coffeebeans",
+      "category": "Plant matter",
+      "defname": "SyrRawCoffee",
+      "price": 3
+    },
+    {
+      "abr": "coolingribimplant",
+      "category": "Bionic",
+      "defname": "CoolerRib",
+      "price": 675
+    },
+    {
+      "abr": "craftingtoolsmodule",
+      "category": "Modules",
+      "defname": "CraftingToolsModule",
+      "price": 983
+    },
+    {
+      "abr": "damagedscytherblade",
+      "category": "Manufactured",
+      "defname": "EPOE_DamagedScytherBlade",
+      "price": 33
+    },
+    {
+      "abr": "detoxifierenhancer",
+      "category": "Bionic",
+      "defname": "EPOE_DetoxifierEnhancer",
+      "price": 1717
+    },
+    {
+      "abr": "diamond",
+      "category": "Raw resources",
+      "defname": "Diamond",
+      "price": 12
+    },
+    {
+      "abr": "fieldfinger",
+      "category": "Prosthetic",
+      "defname": "FieldFinger",
+      "price": 91
+    },
+    {
+      "abr": "glasspane",
+      "category": "Manufactured",
+      "defname": "GlassPane",
+      "price": 22
+    },
+    {
+      "abr": "goldbracelet",
+      "category": "Apparel",
+      "defname": "Jewelry_Bracelet",
+      "price": 417
+    },
+    {
+      "abr": "goldearring",
+      "category": "Apparel",
+      "defname": "Jewelry_Earring",
+      "price": 267
+    },
+    {
+      "abr": "goldeltexnecklace",
+      "category": "Apparel",
+      "defname": "Jewelry_PsychicNecklace",
+      "price": 750
+    },
+    {
+      "abr": "goldnecklace",
+      "category": "Apparel",
+      "defname": "Jewelry_Necklace",
+      "price": 600
+    },
+    {
+      "abr": "goldring",
+      "category": "Apparel",
+      "defname": "Jewelry_Ring",
+      "price": 250
+    },
+    {
+      "abr": "guardianarmor",
+      "category": "Armor",
+      "defname": "RA_GuardianArmorBase",
+      "price": 3900
+    },
+    {
+      "abr": "guardianhelmet",
+      "category": "Headgear",
+      "defname": "RA_GuardianArmorHelmet",
+      "price": 1508
+    },
+    {
+      "abr": "heatingribimplant",
+      "category": "Bionic",
+      "defname": "HeaterRib",
+      "price": 675
+    },
+    {
+      "abr": "honey",
+      "category": "Animal products",
+      "defname": "Honey",
+      "price": 22
+    },
+    {
+      "abr": "honeycombw.queen",
+      "category": "Foods",
+      "defname": "HoneycombWithQueen",
+      "price": 583
+    },
+    {
+      "abr": "hotchocolate",
+      "category": "Drugs",
+      "defname": "SyrHotChocolate",
+      "price": 13
+    },
+    {
+      "abr": "instinctoptimizingnanobots",
+      "category": "Organic optimizer",
+      "defname": "EPOE_InstinctOptimizingNanobots",
+      "price": 2033
+    },
+    {
+      "abr": "lasersculptingtable",
+      "category": "Production",
+      "defname": "LaserTableSculpting",
+      "price": 850
+    },
+    {
+      "abr": "ma-aichip",
+      "category": "Manufactured",
+      "defname": "EPOE_MAAI_Chip",
+      "price": 725
+    },
+    {
+      "abr": "makeshiftfuse",
+      "category": "Power",
+      "defname": "Building_RTMakeshiftFuse",
+      "price": 120
+    },
+    {
+      "abr": "managerdesk",
+      "category": "Production",
+      "defname": "FM_ManagerStation",
+      "price": 508
+    },
+    {
+      "abr": "mead",
+      "category": "Drugs",
+      "defname": "Mead",
+      "price": 30
+    },
+    {
+      "abr": "mechanicalfinger",
+      "category": "Prosthetic",
+      "defname": "MechanicalFinger",
+      "price": 87
+    },
+    {
+      "abr": "mechanicalinternalsupport",
+      "category": "Prosthetic",
+      "defname": "MechanicalInternalSupport",
+      "price": 85
+    },
+    {
+      "abr": "mechanicalmanipulator",
+      "category": "Prosthetic",
+      "defname": "MechanicalManipulator",
+      "price": 88
+    },
+    {
+      "abr": "meleeplatformmodule",
+      "category": "Modules",
+      "defname": "MeleePlatformModule",
+      "price": 1083
+    },
+    {
+      "abr": "mono-greatsword",
+      "category": "Melee weapons",
+      "defname": "RA_MonoGreatsword",
+      "price": 5000
+    },
+    {
+      "abr": "mono-longbow",
+      "category": "Ranged weapons",
+      "defname": "RA_MonoBow",
+      "price": 3367
+    },
+    {
+      "abr": "mutantbone",
+      "category": "Teratogenic parts",
+      "defname": "AA_MutantBone",
+      "price": 12
+    },
+    {
+      "abr": "mutantfinger",
+      "category": "Teratogenic parts",
+      "defname": "AA_MutantFinger",
+      "price": 8
+    },
+    {
+      "abr": "mutantfoot",
+      "category": "Teratogenic parts",
+      "defname": "AA_MutantFoot",
+      "price": 17
+    },
+    {
+      "abr": "mutanthand",
+      "category": "Teratogenic parts",
+      "defname": "AA_MutantHand",
+      "price": 17
+    },
+    {
+      "abr": "mutanttoe",
+      "category": "Teratogenic parts",
+      "defname": "AA_MutantToe",
+      "price": 8
+    },
+    {
+      "abr": "neuro-cureframework",
+      "category": "Ultratech",
+      "defname": "NeurocureFramework",
+      "price": 1775
+    },
+    {
+      "abr": "neuromuscularframework",
+      "category": "Bionic",
+      "defname": "NeuromuscularFramework",
+      "price": 1133
+    },
+    {
+      "abr": "organicoptimizingnanobots",
+      "category": "Organic optimizer",
+      "defname": "EPOE_OrganicOptimizingNanobots",
+      "price": 1725
+    },
+    {
+      "abr": "personamono-greatsword",
+      "category": "Persona weapons",
+      "defname": "RA_MonoGreatswordBladelink",
+      "price": 6667
+    },
+    {
+      "abr": "personaplasmagreatsword",
+      "category": "Persona weapons",
+      "defname": "RA_PlasmaGreatswordBladelink",
+      "price": 6667
+    },
+    {
+      "abr": "personalcloakingsystem",
+      "category": "Utility",
+      "defname": "RA_StealthBelt",
+      "price": 1308
+    },
+    {
+      "abr": "personalcountermeasuresystem",
+      "category": "Utility",
+      "defname": "RA_ChaffBelt",
+      "price": 306
+    },
+    {
+      "abr": "phalanxarmor",
+      "category": "Armor",
+      "defname": "RA_PhalanxArmor",
+      "price": 6658
+    },
+    {
+      "abr": "phalanxhelmet",
+      "category": "Headgear",
+      "defname": "RA_PhalanxArmorHelmet",
+      "price": 2025
+    },
+    {
+      "abr": "plasmagreatsword",
+      "category": "Melee weapons",
+      "defname": "RA_PlasmaGreatsword",
+      "price": 5000
+    },
+    {
+      "abr": "plasteelclavicle",
+      "category": "Plasteel bones",
+      "defname": "PlasteelClavicle",
+      "price": 276
+    },
+    {
+      "abr": "plasteelfemur",
+      "category": "Plasteel bones",
+      "defname": "PlasteelFemur",
+      "price": 383
+    },
+    {
+      "abr": "plasteelhumerus",
+      "category": "Plasteel bones",
+      "defname": "PlasteelHumerus",
+      "price": 383
+    },
+    {
+      "abr": "plasteelradius",
+      "category": "Plasteel bones",
+      "defname": "PlasteelRadius",
+      "price": 383
+    },
+    {
+      "abr": "plasteelsternum",
+      "category": "Plasteel bones",
+      "defname": "PlasteelSternum",
+      "price": 306
+    },
+    {
+      "abr": "plasteeltibia",
+      "category": "Plasteel bones",
+      "defname": "PlasteelTibia",
+      "price": 383
+    },
+    {
+      "abr": "prestigeguardianarmor",
+      "category": "Armor",
+      "defname": "RA_GuardianArmorBase_Prestige",
+      "price": 4492
+    },
+    {
+      "abr": "prestigeguardianhelmet",
+      "category": "Headgear",
+      "defname": "RA_GuardianArmorHelmet_Prestige",
+      "price": 1717
+    },
+    {
+      "abr": "prestigephalanxarmor",
+      "category": "Armor",
+      "defname": "RA_PhalanxArmor_Prestige",
+      "price": 7500
+    },
+    {
+      "abr": "prestigephalanxhelmet",
+      "category": "Headgear",
+      "defname": "RA_PhalanxArmorHelmet_Prestige",
+      "price": 2333
+    },
+    {
+      "abr": "prestigeranseurarmor",
+      "category": "Armor",
+      "defname": "RA_RanseurArmor_Prestige",
+      "price": 4908
+    },
+    {
+      "abr": "prestigeranseurhelmet",
+      "category": "Headgear",
+      "defname": "RA_RanseurArmorHelmet_Prestige",
+      "price": 2208
+    },
+    {
+      "abr": "prostheticclavicle",
+      "category": "Prosthetic bones",
+      "defname": "SimpleProstheticClavicle",
+      "price": 115
+    },
+    {
+      "abr": "prostheticfemur",
+      "category": "Prosthetic bones",
+      "defname": "SimpleProstheticFemur",
+      "price": 138
+    },
+    {
+      "abr": "prostheticfinger",
+      "category": "Prosthetic",
+      "defname": "SimpleProstheticFinger",
+      "price": 92
+    },
+    {
+      "abr": "prostheticforearm",
+      "category": "Prosthetic",
+      "defname": "SimpleProstheticForearm",
+      "price": 104
+    },
+    {
+      "abr": "prosthetichumerus",
+      "category": "Prosthetic bones",
+      "defname": "SimpleProstheticHumerus",
+      "price": 138
+    },
+    {
+      "abr": "prostheticradius",
+      "category": "Prosthetic bones",
+      "defname": "SimpleProstheticRadius",
+      "price": 128
+    },
+    {
+      "abr": "prostheticsternum",
+      "category": "Prosthetic bones",
+      "defname": "SimpleProstheticSternum",
+      "price": 122
+    },
+    {
+      "abr": "prosthetictibia",
+      "category": "Prosthetic bones",
+      "defname": "SimpleProstheticTibia",
+      "price": 138
+    },
+    {
+      "abr": "prosthetictoe",
+      "category": "Prosthetic",
+      "defname": "SimpleProstheticToe",
+      "price": 33
+    },
+    {
+      "abr": "prostheticworkbench",
+      "category": "Production",
+      "defname": "TableSimpleProsthetic",
+      "price": 475
+    },
+    {
+      "abr": "protectiveexoskeleton",
+      "category": "Ultratech",
+      "defname": "EPIA_ProtectiveExoskeleton",
+      "price": 4983
+    },
+    {
+      "abr": "rangedplatformmodule",
+      "category": "Modules",
+      "defname": "RangedPlatformModule",
+      "price": 1083
+    },
+    {
+      "abr": "ranseurarmor",
+      "category": "Armor",
+      "defname": "RA_RanseurArmor",
+      "price": 4283
+    },
+    {
+      "abr": "ranseurhelmet",
+      "category": "Headgear",
+      "defname": "RA_RanseurArmorHelmet",
+      "price": 1967
+    },
+    {
+      "abr": "replacementradius",
+      "category": "Prosthetic",
+      "defname": "ReplacementRadius",
+      "price": 169
+    },
+    {
+      "abr": "replacementspine",
+      "category": "Prosthetic",
+      "defname": "SimpleSpine",
+      "price": 433
+    },
+    {
+      "abr": "respirationribimplant",
+      "category": "Bionic",
+      "defname": "RespirationRib",
+      "price": 1558
+    },
+    {
+      "abr": "royalchargelance",
+      "category": "Ranged weapons",
+      "defname": "RA_RoyalChargeLance",
+      "price": 3017
+    },
+    {
+      "abr": "royalchargerifle",
+      "category": "Ranged weapons",
+      "defname": "RA_RoyalChargeRifle",
+      "price": 2475
+    },
+    {
+      "abr": "royalshuttleservicetargeter",
+      "category": "Utility",
+      "defname": "RA_ShuttleServiceTargeter",
+      "price": 1333
+    },
+    {
+      "abr": "ruby",
+      "category": "Raw resources",
+      "defname": "Ruby",
+      "price": 10
+    },
+    {
+      "abr": "sapphire",
+      "category": "Raw resources",
+      "defname": "Sapphire",
+      "price": 10
+    },
+    {
+      "abr": "scytherblade",
+      "category": "Prosthetic",
+      "defname": "EPIA_ScytherBlade",
+      "price": 342
+    },
+    {
+      "abr": "silverbracelet",
+      "category": "Apparel",
+      "defname": "Jewelry_Bracelet_Silver",
+      "price": 417
+    },
+    {
+      "abr": "silverearring",
+      "category": "Apparel",
+      "defname": "Jewelry_Earring_Silver",
+      "price": 267
+    },
+    {
+      "abr": "silvereltexnecklace",
+      "category": "Apparel",
+      "defname": "Jewelry_PsychicNecklace_Silver",
+      "price": 750
+    },
+    {
+      "abr": "silvernecklace",
+      "category": "Apparel",
+      "defname": "Jewelry_Necklace_Silver",
+      "price": 600
+    },
+    {
+      "abr": "silverring",
+      "category": "Apparel",
+      "defname": "Jewelry_Ring_Silver",
+      "price": 250
+    },
+    {
+      "abr": "sraf:canary",
+      "category": "Buildings",
+      "defname": "SRAF",
+      "price": 20258
+    },
+    {
+      "abr": "sraf:tek-7",
+      "category": "Buildings",
+      "defname": "SRAFTek",
+      "price": 31292
+    },
+    {
+      "abr": "srtsmk.i:skip",
+      "category": "Buildings",
+      "defname": "SRTSSkip",
+      "price": 9150
+    },
+    {
+      "abr": "srtsmk.ii:albatross",
+      "category": "Buildings",
+      "defname": "SRTSMkII",
+      "price": 29875
+    },
+    {
+      "abr": "srtsmk.iii:phoenix",
+      "category": "Buildings",
+      "defname": "SRTSMkIII",
+      "price": 52792
+    },
+    {
+      "abr": "srtsmk.iiip:pelican",
+      "category": "Buildings",
+      "defname": "SRTSMkIIIp",
+      "price": 61100
+    },
+    {
+      "abr": "srtsmk.iv:genesis",
+      "category": "Buildings",
+      "defname": "SRTSMkIV",
+      "price": 218617
+    },
+    {
+      "abr": "superpod",
+      "category": "Buildings",
+      "defname": "SRTSSuperpod",
+      "price": 6958
+    },
+    {
+      "abr": "syntheticbone",
+      "category": "Bionic",
+      "defname": "EPIA_SyntheticBone",
+      "price": 329
+    },
+    {
+      "abr": "syntheticdetoxifierliver",
+      "category": "Bionic",
+      "defname": "EPOE_DetoxifierSyntheticLiver",
+      "price": 3850
+    },
+    {
+      "abr": "syntheticimmunoenhancedkidney",
+      "category": "Bionic",
+      "defname": "EPOE_ImmunoenhancerSyntheticKidney",
+      "price": 3850
+    },
+    {
+      "abr": "synthetictissue",
+      "category": "Bionic",
+      "defname": "SyntheticSkin",
+      "price": 287
+    },
+    {
+      "abr": "tacticalbioniceye",
+      "category": "Ultratech",
+      "defname": "EPIA_TacticalBionicEye",
+      "price": 3300
+    },
+    {
+      "abr": "tea",
+      "category": "Drugs",
+      "defname": "SyrTea",
+      "price": 25
+    },
+    {
+      "abr": "tealeaves",
+      "category": "Plant matter",
+      "defname": "SyrRawTea",
+      "price": 3
+    },
+    {
+      "abr": "techprint(aerodronehub)",
+      "category": "Techprints",
+      "defname": "Techprint_RA_AerodroneHubResearch",
+      "price": 1667
+    },
+    {
+      "abr": "techprint(aerodrones)",
+      "category": "Techprints",
+      "defname": "Techprint_RA_BuildableAerodrones_AerodroneResearch",
+      "price": 5000
+    },
+    {
+      "abr": "techprint(brainwiring)",
+      "category": "Techprints",
+      "defname": "Techprint_BrainWiring",
+      "price": 1667
+    },
+    {
+      "abr": "techprint(cloakingfield)",
+      "category": "Techprints",
+      "defname": "Techprint_RA_CloakingResearch",
+      "price": 6667
+    },
+    {
+      "abr": "techprint(experimentalmono-tech)",
+      "category": "Techprints",
+      "defname": "Techprint_RA_MonoBowResearch",
+      "price": 6667
+    },
+    {
+      "abr": "techprint(royalchargedmunitions)",
+      "category": "Techprints",
+      "defname": "Techprint_RA_RoyalChargedShot",
+      "price": 5000
+    },
+    {
+      "abr": "techprint(syntheticorganintegration)",
+      "category": "Techprints",
+      "defname": "Techprint_EPOE_SyntheticOrgansIntegration",
+      "price": 3333
+    },
+    {
+      "abr": "wake-upribimplant",
+      "category": "Bionic",
+      "defname": "WakeUpRib",
+      "price": 958
+    },
+    {
+      "abr": "woolcloth",
+      "category": "Textiles",
+      "defname": "WoolCloth",
+      "price": 3
+    },
+    {
+      "abr": "woolloom",
+      "category": "Production",
+      "defname": "BenchWoolLoom",
+      "price": 148
     }
   ],
-  "total": 1179
+  "total": 1209
 }
