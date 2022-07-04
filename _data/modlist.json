@@ -390,12 +390,6 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "ruPal",
-    "name": "RimPy Mod Manager Database",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "ChJees and Rock5 - updated by Valcrafto",
     "name": "RimSearch",
     "steamId": "1550628303",
@@ -658,6 +652,18 @@
     "name": "[NL] Dynamic Portraits",
     "steamId": "2253730555",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "the_heye",
+    "name": "Twitch Chat",
+    "steamId": "2075845400",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kikohi and  Trunken",
+    "name": "Cybernetic Organism and Neural Network",
+    "steamId": "2045064990",
+    "version": "2.0.1.0"
   },
   {
     "author": "Victorique,  Aurani and  Tarojun",
