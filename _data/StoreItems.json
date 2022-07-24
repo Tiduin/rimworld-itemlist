@@ -202,13 +202,13 @@
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": 4667
+      "price": 5500
     },
     {
       "abr": "bionicarm",
       "category": "Bionic",
       "defname": "BionicArm",
-      "price": 1717
+      "price": 2500
     },
     {
       "abr": "prostheticarm",
@@ -1906,13 +1906,13 @@
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": 4667
+      "price": 5500
     },
     {
       "abr": "bionicleg",
       "category": "Bionic",
       "defname": "BionicLeg",
-      "price": 1717
+      "price": 3000
     },
     {
       "abr": "prostheticleg",
@@ -7469,7 +7469,19 @@
       "category": "Cybernetic",
       "defname": "ANN_Zoom",
       "price": 2275
+    },
+    {
+      "abr": "displaycase",
+      "category": "Furniture",
+      "defname": "DisplayCases_SingleDisplay",
+      "price": 508
+    },
+    {
+      "abr": "displaycase",
+      "category": "Furniture",
+      "defname": "DisplayCases_DualDisplay",
+      "price": 1017
     }
   ],
-  "total": 1245
+  "total": 1247
 }

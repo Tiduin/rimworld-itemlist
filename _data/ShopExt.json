@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -26,8 +26,8 @@
       "name": "nudist",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -56,8 +56,8 @@
       "name": "bloodlust",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -88,8 +88,8 @@
       "name": "kind",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -120,8 +120,8 @@
       "name": "psychopath",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -150,8 +150,8 @@
       "name": "cannibal",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -180,15 +180,16 @@
       "name": "abrasive",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": 0
     },
     {
       "description": "Timmy is too smart for his own good. he learns everything much faster than everyone, but can be quite eccentric.",
       "stats": [
         "+75% global learning factor",
-        "+12% mental break threshold"
+        "+12% mental break threshold",
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
         "iron-willed",
@@ -213,15 +214,16 @@
         ],
         "stats": [
           "+75% global learning factor",
-          "+12% mental break threshold"
+          "+12% mental break threshold",
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "TooSmart",
       "name": "toosmart",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -260,8 +262,8 @@
       "name": "brawler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -290,8 +292,8 @@
       "name": "masochist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -320,8 +322,8 @@
       "name": "nightowl",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -352,8 +354,8 @@
       "name": "greedy",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -384,8 +386,8 @@
       "name": "jealous",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -422,8 +424,8 @@
       "name": "ascetic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -452,8 +454,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -482,8 +484,8 @@
       "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -512,8 +514,8 @@
       "name": "asexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -542,8 +544,8 @@
       "name": "annoyingvoice",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -572,13 +574,14 @@
       "name": "creepybreathing",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": 0
     },
     {
       "description": "Timmy loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low.",
       "stats": [
+        "Flame meditation focus type allowed.",
         "Only mental break \"FireStartingSpree\" allowed."
       ],
       "conflicts": [
@@ -595,6 +598,7 @@
 
         ],
         "stats": [
+          "Flame meditation focus type allowed.",
           "Only mental break \"FireStartingSpree\" allowed."
         ]
       },
@@ -602,17 +606,19 @@
       "name": "pyromaniac",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": 0
     },
     {
       "description": "Timmy is weak and cowardly. Even a little pain will immobilize him.",
       "stats": [
-        "-60% pain shock threshold"
+        "-60% pain shock threshold",
+        "x200% global certainty loss factor"
       ],
       "conflicts": [
-        "brawler"
+        "brawler",
+        "masochist"
       ],
       "bypassLimit": false,
       "data": {
@@ -622,18 +628,20 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "brawler"
+          "brawler",
+          "masochist"
         ],
         "stats": [
-          "-60% pain shock threshold"
+          "-60% pain shock threshold",
+          "x200% global certainty loss factor"
         ]
       },
       "defName": "Wimp",
       "name": "wimp",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -664,8 +672,8 @@
       "name": "nimble",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -694,14 +702,15 @@
       "name": "fastlearner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
       "description": "Timmy is slow on the uptake. he learns much slower than others.",
       "stats": [
-        "-75% global learning factor"
+        "-75% global learning factor",
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
         "toosmart"
@@ -717,15 +726,16 @@
           "toosmart"
         ],
         "stats": [
-          "-75% global learning factor"
+          "-75% global learning factor",
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "SlowLearner",
       "name": "slowlearner",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -752,10 +762,10 @@
       },
       "defName": "Undergrounder",
       "name": "undergrounder",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -781,11 +791,11 @@
         ]
       },
       "defName": "Transhumanist",
-      "name": "transhumanist",
+      "name": "bodymodder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -794,7 +804,7 @@
 
       ],
       "conflicts": [
-        "transhumanist"
+        "bodymodder"
       ],
       "bypassLimit": false,
       "data": {
@@ -804,7 +814,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "transhumanist"
+          "bodymodder"
         ],
         "stats": [
 
@@ -814,8 +824,8 @@
       "name": "bodypurist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -844,8 +854,8 @@
       "name": "misandrist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -874,8 +884,8 @@
       "name": "misogynist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -904,8 +914,8 @@
       "name": "greatmemory",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -934,8 +944,8 @@
       "name": "tough",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -964,8 +974,8 @@
       "name": "torturedartist",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -994,10 +1004,10 @@
       },
       "defName": "Gourmand",
       "name": "gourmand",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -1026,8 +1036,8 @@
       "name": "quicksleeper",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -1058,8 +1068,8 @@
       "name": "slowpoke",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": -1
     },
     {
@@ -1088,8 +1098,8 @@
       "name": "fastwalker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1118,8 +1128,8 @@
       "name": "jogger",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 2
     },
     {
@@ -1148,8 +1158,8 @@
       "name": "chemicalfascination",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": 2
     },
     {
@@ -1178,8 +1188,8 @@
       "name": "chemicalinterest",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1210,8 +1220,8 @@
       "name": "teetotaler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": -1
     },
     {
@@ -1240,8 +1250,8 @@
       "name": "sanguine",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 2
     },
     {
@@ -1270,8 +1280,8 @@
       "name": "optimist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1298,10 +1308,10 @@
       },
       "defName": "NaturalMood",
       "name": "pessimist",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": -1
     },
     {
@@ -1330,14 +1340,15 @@
       "name": "depressive",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": -2
     },
     {
       "description": "Timmy's will is an iron shield. he keeps going through thick and thin, when others broke down long before.",
       "stats": [
-        "-18% mental break threshold"
+        "-18% mental break threshold",
+        "x25% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -1353,21 +1364,23 @@
 
         ],
         "stats": [
-          "-18% mental break threshold"
+          "-18% mental break threshold",
+          "x25% global certainty loss factor"
         ]
       },
       "defName": "Nerves",
       "name": "iron-willed",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 2
     },
     {
       "description": "Timmy is mentally tough and won't break down under stresses that would crack most people.",
       "stats": [
-        "-9% mental break threshold"
+        "-9% mental break threshold",
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -1383,21 +1396,23 @@
 
         ],
         "stats": [
-          "-9% mental break threshold"
+          "-9% mental break threshold",
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Nerves",
       "name": "steadfast",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
       "description": "Timmy tends to crack under pressure.",
       "stats": [
-        "+8% mental break threshold"
+        "+8% mental break threshold",
+        "x200% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -1413,21 +1428,23 @@
 
         ],
         "stats": [
-          "+8% mental break threshold"
+          "+8% mental break threshold",
+          "x200% global certainty loss factor"
         ]
       },
       "defName": "Nerves",
       "name": "nervous",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": -1
     },
     {
       "description": "Timmy is on a hair-trigger all the time. he is the first to break in any tough situation.",
       "stats": [
-        "+15% mental break threshold"
+        "+15% mental break threshold",
+        "x300% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -1443,15 +1460,16 @@
 
         ],
         "stats": [
-          "+15% mental break threshold"
+          "+15% mental break threshold",
+          "x300% global certainty loss factor"
         ]
       },
       "defName": "Nerves",
       "name": "volatile",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": -2
     },
     {
@@ -1482,8 +1500,8 @@
       "name": "neurotic",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1512,10 +1530,10 @@
       },
       "defName": "Neurotic",
       "name": "veryneurotic",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": 2
     },
     {
@@ -1544,8 +1562,8 @@
       "name": "industrious",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 2
     },
     {
@@ -1574,8 +1592,8 @@
       "name": "hardworker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1604,8 +1622,8 @@
       "name": "lazy",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": -1
     },
     {
@@ -1634,8 +1652,8 @@
       "name": "slothful",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": -2
     },
     {
@@ -1664,8 +1682,8 @@
       "name": "psychicallyhypersensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 2
     },
     {
@@ -1694,8 +1712,8 @@
       "name": "psychicallysensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1724,8 +1742,8 @@
       "name": "psychicallydull",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": -1
     },
     {
@@ -1754,8 +1772,8 @@
       "name": "psychicallydeaf",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": -2
     },
     {
@@ -1786,8 +1804,8 @@
       "name": "carefulshooter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1818,8 +1836,8 @@
       "name": "trigger-happy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": -1
     },
     {
@@ -1848,8 +1866,8 @@
       "name": "beautiful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 2
     },
     {
@@ -1878,8 +1896,8 @@
       "name": "pretty",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1908,8 +1926,8 @@
       "name": "ugly",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": -1
     },
     {
@@ -1938,8 +1956,8 @@
       "name": "staggeringlyugly",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": -2
     },
     {
@@ -1968,8 +1986,8 @@
       "name": "super-immune",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 3500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1998,9 +2016,129 @@
       "name": "sickly",
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 35000,
+      "removePrice": 3500,
       "degree": -1
+    },
+    {
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "germaphobe",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 35000,
+      "removePrice": 3500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is very hygienic and will wash more frequently.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "hygienic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 3500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is very unhygienic and will wash less frequently.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "unhygienic",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 35000,
+      "removePrice": 3500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "slob",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 35000,
+      "removePrice": 3500,
+      "degree": -2
     },
     {
       "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
@@ -2037,128 +2175,8 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 3500,
       "degree": 1
-    },
-    {
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "germaphobe",
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2
-    },
-    {
-      "description": "Timmy is very hygienic and will wash more frequently.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "hygienic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy is very unhygienic and will wash less frequently.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "unhygienic",
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1
-    },
-    {
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "slob",
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3000,
-      "degree": -2
     }
   ],
   "races": [
@@ -2182,7 +2200,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 5000
+      "price": 2917
     }
   ]
 }
