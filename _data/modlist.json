@@ -222,6 +222,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "miyamiya",
+    "name": "Compressed Raid",
+    "steamId": "2377478084",
+    "version": "1.4"
+  },
+  {
     "author": "Georodin",
     "name": "DDI - Deep Drill Indicator",
     "steamId": "2566736688",
@@ -570,6 +576,12 @@
     "version": null
   },
   {
+    "author": "sindre0830",
+    "name": "RimNauts 2",
+    "steamId": "2880599514",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Jecrell",
     "name": "RimQuest (Continued)",
     "steamId": "2263331727",
@@ -774,6 +786,12 @@
     "version": null
   },
   {
+    "author": "1trickPwnyta",
+    "name": "Unlimited Threat Scale",
+    "steamId": "2562732435",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "dismarzero",
     "name": "VGP Vegetable Garden",
     "steamId": null,
@@ -964,5 +982,11 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2421"
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "Blood and stains",
+    "steamId": "2075683887",
+    "version": "1.0.8328.27847"
   }
 ]
