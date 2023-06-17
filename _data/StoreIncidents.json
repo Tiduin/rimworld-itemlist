@@ -11,11 +11,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -42,32 +37,32 @@
 	},
 	{
 		"abr": "aurora",
-		"price": 500,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "animaltame",
-		"price": 500,
+		"price": 150,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "resourcepodcrash",
-		"price": 1000,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "tradercaravan",
-		"price": 600,
+		"price": 275,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "orbitaltraderarrival",
-		"price": 1000,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "meteor",
-		"price": 400,
+		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
@@ -76,18 +71,13 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "ambrosiasprout",
-		"price": 500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "herdmigration",
-		"price": 600,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "farmanimals",
-		"price": 600,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -97,7 +87,7 @@
 	},
 	{
 		"abr": "shipchunkdrop",
-		"price": 600,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -107,7 +97,7 @@
 	},
 	{
 		"abr": "visitorgroup",
-		"price": 500,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
@@ -122,12 +112,17 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 1500,
+		"price": 700,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 2000,
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -151,6 +146,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "visitcolony",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
@@ -167,7 +167,7 @@
 	},
 	{
 		"abr": "healall",
-		"price": 25000,
+		"price": 17336,
 		"karmatype": "Good"
 	},
 	{
@@ -177,7 +177,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 3000,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
@@ -197,17 +197,17 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 3000,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "fullheal",
-		"price": 5000,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 5000,
+		"price": 7000,
 		"karmatype": "Good"
 	},
 	{
