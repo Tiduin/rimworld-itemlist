@@ -54,6 +54,12 @@
     "version": null
   },
   {
+    "author": "Porio",
+    "name": "Allow Tunnelers To Drill",
+    "steamId": "2882915775",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Roolo",
     "name": "Almost There!",
     "steamId": null,
@@ -114,6 +120,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mechs",
+    "steamId": "2973169158",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX and erdelf",
     "name": "Vanilla Textures Expanded",
     "steamId": "2016436324",
@@ -123,7 +135,7 @@
     "author": "CE Team",
     "name": "Combat Extended",
     "steamId": "2890901044",
-    "version": "1.4.5.2"
+    "version": "1.4.5.3"
   },
   {
     "author": "VouLT",
@@ -183,7 +195,7 @@
     "author": "Mlie",
     "name": "BoomMod Expanded",
     "steamId": "2359846788",
-    "version": "1.4.2"
+    "version": "1.4.3"
   },
   {
     "author": "goog",
@@ -224,6 +236,18 @@
   {
     "author": "tiagocc0",
     "name": "Colorblind Minerals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Kubaxius",
+    "name": "Combat Extended Bulk Patches",
     "steamId": null,
     "version": null
   },
@@ -322,6 +346,12 @@
     "name": "Faction Control 1.4",
     "steamId": "2882785581",
     "version": "1.0.8341.33239"
+  },
+  {
+    "author": "Garethp",
+    "name": "Family Tree",
+    "steamId": "2841325586",
+    "version": "1.1.1"
   },
   {
     "author": "Tials",
@@ -465,7 +495,7 @@
     "author": "Mehni",
     "name": "More Faction Interaction (Continued)",
     "steamId": "2379076640",
-    "version": "1.4.3"
+    "version": "1.4.4"
   },
   {
     "author": "natbob1",
@@ -502,6 +532,12 @@
     "name": "Performance Optimizer",
     "steamId": "2664723367",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Dr. Plantabyte",
+    "name": "Planet Setting Randomizer",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mersid",
@@ -597,7 +633,7 @@
     "author": "AUTOMATIC",
     "name": "Recipe icons (Continued)",
     "steamId": "2904906618",
-    "version": "1.4.2"
+    "version": "1.4.3"
   },
   {
     "author": "Madara Uchiha",
@@ -620,8 +656,8 @@
   {
     "author": "Jaxe",
     "name": "RimHUD",
-    "steamId": null,
-    "version": null
+    "steamId": "1508850027",
+    "version": "1.12.1.0"
   },
   {
     "author": "aRandomKiwi",
@@ -720,12 +756,6 @@
     "version": null
   },
   {
-    "author": "Sarg",
-    "name": "Smart Speed",
-    "steamId": "1504723424",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "dhultgren",
     "name": "Smarter Construction",
     "steamId": null,
@@ -744,16 +774,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8391.36780"
+    "version": "1.0.8572.18461"
   },
   {
     "author": "Antaios",
@@ -897,19 +921,13 @@
     "author": "CodeOptimist",
     "name": "While You're Up / PUAH+",
     "steamId": "2034960453",
-    "version": "4.0.2.7572"
+    "version": "4.0.3.3352"
   },
   {
     "author": "PrivateGER",
     "name": "[1.4] Nukes",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Sarg Bjornson",
-    "name": "Alpha Mechs",
-    "steamId": "2973169158",
-    "version": "1.0.0.0"
   },
   {
     "author": "Fluffy",
