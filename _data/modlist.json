@@ -6,7 +6,7 @@
     "version": null
   },
   {
-    "author": "Alan Dariva und Usagirei",
+    "author": "Alan Dariva and Usagirei",
     "name": "More Planning [1.4]",
     "steamId": null,
     "version": null
@@ -24,19 +24,43 @@
     "version": null
   },
   {
+    "author": "Dyrewulfe",
+    "name": "Better Message Placement (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "tiagocc0",
+    "name": "Colorblind Minerals",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Defensive Positions",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Victorique, Aurani und Tarojun",
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Victorique, Aurani and Tarojun",
     "name": "Expanded Prosthetics and Organ Engineering - Forked",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Victorique, Aurani und Tarojun",
+    "author": "Victorique, Aurani and Tarojun",
     "name": "EPOE-Forked: Royalty DLC expansion",
     "steamId": null,
     "version": null
@@ -62,6 +86,12 @@
   {
     "author": "HRG164hjo",
     "name": "Fuel Pipenet for SOS2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Heat Map (Continued)",
     "steamId": null,
     "version": null
   },
@@ -102,6 +132,24 @@
     "version": null
   },
   {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dr. Plantabyte",
+    "name": "Planet Setting Randomizer",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mersid",
+    "name": "Power Tab",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "kathanon",
     "name": "Float Sub-Menus",
     "steamId": null,
@@ -120,7 +168,7 @@
     "version": null
   },
   {
-    "author": "Owlchemist und Mlie",
+    "author": "Owlchemist and Mlie",
     "name": "Simple FX: Smoke",
     "steamId": null,
     "version": null
