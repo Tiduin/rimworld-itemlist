@@ -928,7 +928,7 @@
       "abr": "jade",
       "category": "Rohstoffe",
       "defname": "Jade",
-      "price": 8
+      "price": 5
     },
     {
       "abr": "cloth",
@@ -1600,7 +1600,7 @@
       "abr": "chicken",
       "category": "Tiere",
       "defname": "Chicken",
-      "price": 83
+      "price": 100
     },
     {
       "abr": "duck",
@@ -1702,13 +1702,13 @@
       "abr": "hare",
       "category": "Tiere",
       "defname": "Hare",
-      "price": 83
+      "price": 100
     },
     {
       "abr": "snowhare",
       "category": "Tiere",
       "defname": "Snowhare",
-      "price": 83
+      "price": 100
     },
     {
       "abr": "megascarab",
@@ -1816,13 +1816,13 @@
       "abr": "squirrel",
       "category": "Tiere",
       "defname": "Squirrel",
-      "price": 58
+      "price": 100
     },
     {
       "abr": "rat",
       "category": "Tiere",
       "defname": "Rat",
-      "price": 58
+      "price": 100
     },
     {
       "abr": "boomrat",
@@ -2740,7 +2740,7 @@
       "abr": "bioferrit",
       "category": "Rohstoffe",
       "defname": "Bioferrite",
-      "price": 1
+      "price": 15
     },
     {
       "abr": "bioferritformer",
@@ -3478,7 +3478,7 @@
       "abr": "genpaket",
       "category": "Diverses",
       "defname": "Genepack",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "gewebedrucker",
@@ -3550,7 +3550,7 @@
       "abr": "giftratte",
       "category": "Tiere",
       "defname": "WasteRat",
-      "price": 58
+      "price": 100
     },
     {
       "abr": "giftrattenfleisch",
@@ -5830,31 +5830,31 @@
       "abr": "würfel",
       "category": "Inaktive Reliquien",
       "defname": "RelicInertCube",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "würfelskulpturausdreck",
       "category": "Kunst",
       "defname": "DirtCubeSculpture",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "würfelskulpturaussand",
       "category": "Kunst",
       "defname": "SandCubeSculpture",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "würfelskulpturausschrott",
       "category": "Kunst",
       "defname": "ScrapCubeSculpture",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "würfelskulpturausstein",
       "category": "Kunst",
       "defname": "StoneCubeSculpture",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "xenokeim",
