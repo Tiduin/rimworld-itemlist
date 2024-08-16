@@ -1,9 +1,27 @@
 [
   {
+    "author": "Zetrith",
+    "name": "Prepatcher",
+    "steamId": "2934420800",
+    "version": "1.0.0+54a2d222e6ef012b2668311d74ed5ecdb37e26d0"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
     "version": "2.3.1.0"
+  },
+  {
+    "author": "bradson",
+    "name": "Fishery - Modding Library",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bradson",
+    "name": "Performance Fish",
+    "steamId": "",
+    "version": "0.6.2.0+79e8b5f70d53ac37ef43c08273e37bb8b34b041c"
   },
   {
     "author": "UnlimitedHugs",
@@ -141,7 +159,7 @@
     "author": "CaptainArbitrary",
     "name": "Compact Work Tab (Continued)",
     "steamId": "3250322299",
-    "version": "1.5.3"
+    "version": "1.5.5"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson und Erdelf",
@@ -282,6 +300,18 @@
     "version": null
   },
   {
+    "author": "KuraiChikara",
+    "name": "KuraisAnimaFix",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "KuraiChikara",
+    "name": "KuraisCharge",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "krafs",
     "name": "Level Up!",
     "steamId": "1701592470",
@@ -369,7 +399,7 @@
     "author": "Mehni",
     "name": "Numbers",
     "steamId": "1414302321",
-    "version": "1.0.0+930a1dac5636543bb9c7a958b78a0719e601ed5f"
+    "version": "1.0.0+3becb974cac33361f1e8b9711923eddced9e53ab"
   },
   {
     "author": "Peppsen",
@@ -648,8 +678,8 @@
     "version": "1.0.3"
   },
   {
-    "author": "the_heye",
-    "name": "Wealth Display",
+    "author": "Tiduin",
+    "name": "Wealth Display (Continued)",
     "steamId": null,
     "version": null
   },
