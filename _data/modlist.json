@@ -1,9 +1,27 @@
 [
   {
+    "author": "Zetrith",
+    "name": "Prepatcher",
+    "steamId": "2934420800",
+    "version": "1.0.0+54a2d222e6ef012b2668311d74ed5ecdb37e26d0"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
     "version": "2.3.1.0"
+  },
+  {
+    "author": "bradson",
+    "name": "Fishery - Modding Library",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bradson",
+    "name": "Performance Fish",
+    "steamId": "",
+    "version": "0.6.2.0+79e8b5f70d53ac37ef43c08273e37bb8b34b041c"
   },
   {
     "author": "UnlimitedHugs",
@@ -12,20 +30,26 @@
     "version": "11.0.4"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Mint Menus",
-    "steamId": "1446523594",
-    "version": "1.0.0"
+    "author": "VouLT",
+    "name": "Better Pawn Control",
+    "steamId": "1541460369",
+    "version": "2.7.4"
   },
   {
-    "author": "Alan Dariva und Usagirei",
-    "name": "More Planning [1.5]",
-    "steamId": null,
-    "version": null
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "3.9.5.0"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
+    "author": "ColossalFossil",
+    "name": "Animals are fun! (Continued)",
+    "steamId": "3245454244",
+    "version": "1.5.5+12bfff85fdece75e979d2ef5c066e5eb235066cd"
+  },
+  {
+    "author": "Hobbes",
+    "name": "Annoying Kids Floordrawings",
     "steamId": null,
     "version": null
   },
@@ -36,14 +60,50 @@
     "version": "3.14.109"
   },
   {
+    "author": "RunningBugs",
+    "name": "AllowToolGhoulFix",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "nercury",
+    "name": "Assign Animal Food",
+    "steamId": "2520066544",
+    "version": "1.5.1"
+  },
+  {
+    "author": "Dyrewulfe",
+    "name": "Better Message Placement (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": null,
     "version": null
   },
   {
+    "author": "Creeper",
+    "name": "BetterInfoCard",
+    "steamId": "2890920739",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "AUTOMATIC",
     "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
+    "author": "doug",
+    "name": "Bots Charge When Idle",
     "steamId": null,
     "version": null
   },
@@ -60,10 +120,34 @@
     "version": "1.5.4062.1"
   },
   {
+    "author": "Arakos",
+    "name": "Call A Trader",
+    "steamId": "2784149999",
+    "version": "1.5.0"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
     "version": "3.2.0.0"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Change Caravan Loadout (continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "3211700981",
+    "version": "1.4.1242.0"
+  },
+  {
+    "author": "Side1iner",
+    "name": "CleaningAreaTemp",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "tiagocc0",
@@ -72,10 +156,70 @@
     "version": null
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.8911.30668"
+  },
+  {
+    "author": "CaptainArbitrary",
+    "name": "Compact Work Tab (Continued)",
+    "steamId": "3250322299",
+    "version": "1.5.5"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson und Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki und Kikohi",
+    "name": "Vanilla Nutrient Paste Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GwinnBleidd und Katavrik",
+    "name": "Crash Landing",
+    "steamId": "2289694750",
+    "version": "1.5.0.2"
+  },
+  {
     "author": "Georodin",
     "name": "DDI - Deep Drill Indicator",
     "steamId": "2566736688",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Spdskatr und CaesarV6",
+    "name": "Damage Indicators [1.5]",
+    "steamId": "2016331497",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "merthsoft",
+    "name": "Designator Shapes",
+    "steamId": "1235181370",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Door Clearance",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "telardo",
@@ -84,14 +228,32 @@
     "version": null
   },
   {
+    "author": "Eagle0600",
+    "name": "Dress Patients (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Mint Minimap",
     "steamId": "1662119905",
     "version": "1.2.7365"
   },
   {
-    "author": "Eagle0600",
-    "name": "Expandable Plants (Continued)",
+    "author": "Dubwise",
+    "name": "Dubs Skylights",
+    "steamId": "833899765",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Tials",
+    "name": "Floordrawings",
     "steamId": null,
     "version": null
   },
@@ -102,8 +264,50 @@
     "version": "4.9.95"
   },
   {
+    "author": "Dyrewulfe",
+    "name": "Food Poisoning Stack Fix (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.6.11+1c2929a19695c4b98f35b00e39d1ee0725b46b45"
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Gunplay",
+    "steamId": "2034896549",
+    "version": "1.0.379.0018"
+  },
+  {
     "author": "Falconne",
     "name": "Heat Map (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "KuraiChikara",
+    "name": "Kurais Storyteller",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "KuraiChikara",
+    "name": "KuraisAnimaFix",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "KuraiChikara",
+    "name": "KuraisCharge",
     "steamId": null,
     "version": null
   },
@@ -120,16 +324,58 @@
     "version": null
   },
   {
+    "author": "m00nl1ght",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "1.12.17+6db7d75d6e1005522b3ed749fab1d56e12fc2a46"
+  },
+  {
     "author": "Leoltron",
     "name": "Max Buy, Max Sell",
     "steamId": "2889812094",
     "version": "1.0.0"
   },
   {
+    "author": "Witek",
+    "name": "Mechs can haul to charger",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Giant Space Hamster",
+    "name": "Moody",
+    "steamId": "826998327",
+    "version": "2.6.4.0"
+  },
+  {
+    "author": "natbob1",
+    "name": "More Graphs (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Zaljerem",
     "name": "Music Manager (Continued)",
     "steamId": "3220120457",
     "version": "2.4.231"
+  },
+  {
+    "author": "Doug",
+    "name": "No Job Authors",
+    "steamId": "2009825774",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dave-EEs",
+    "name": "No Random Relations",
+    "steamId": "2583377522",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vesper",
+    "name": "Not My Fault",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mehni",
@@ -144,6 +390,36 @@
     "version": null
   },
   {
+    "author": "Scherub",
+    "name": "Planning Extended",
+    "steamId": "2877392159",
+    "version": "1.10.0+d178e653511def3c1ee64cb0183d34cd12768879"
+  },
+  {
+    "author": "Mersid",
+    "name": "Power Tab",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seeki",
+    "name": "Prioritize Meals over Preserved Foods",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Float Sub-Menus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Prisoner Utils",
+    "steamId": "2864410456",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "Neptimus7",
     "name": "Progress Renderer",
     "steamId": "2010777010",
@@ -156,10 +432,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "HellRevenger",
-    "name": "Quick Area",
-    "steamId": "3252220145",
-    "version": "1.0.0.0"
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.18"
   },
   {
     "author": "Sandy",
@@ -168,10 +444,52 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Ratys",
+    "name": "RT Fuse",
+    "steamId": "728314182",
+    "version": "1.7.0.0"
+  },
+  {
+    "author": "Ratys",
+    "name": "RT Solar Flare Shield",
+    "steamId": "728315620",
+    "version": "1.8.0.0"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Raids For Me",
+    "steamId": "1633517937",
+    "version": "1.0.9.0"
+  },
+  {
+    "author": "RandomCoughdrop",
+    "name": "Random's Gene Assistant",
+    "steamId": "2882497271",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Range Finder",
+    "steamId": "1332119637",
+    "version": "2.5.0.0"
+  },
+  {
     "author": "AUTOMATIC",
     "name": "Recipe icons (Continued)",
     "steamId": "2904906618",
     "version": "1.5.0"
+  },
+  {
+    "author": "TGPArcher",
+    "name": "Remote Doors (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
   },
   {
     "author": "Jaxe",
@@ -180,10 +498,22 @@
     "version": "1.15.3.0"
   },
   {
-    "author": "Tiduin, Drotak und TobiDev_",
-    "name": "Rimionship Seed of the Month",
-    "steamId": "3014790852",
+    "author": "aRandomKiwi",
+    "name": "RimSaves",
+    "steamId": "1713367505",
+    "version": "2024.0.1.20"
+  },
+  {
+    "author": "avilmask",
+    "name": "Self Dyeing",
+    "steamId": "2562859859",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Set Owner for Prisoner Beds",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "kathanon",
@@ -198,8 +528,38 @@
     "version": null
   },
   {
+    "author": "Uuugggg",
+    "name": "Smart Medicine",
+    "steamId": "1309994319",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Smart Speed",
+    "steamId": "1504723424",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Porio",
+    "name": "TEMPORARY 1.5 Allow Tunnelers To Drill",
+    "steamId": "3232132812",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Divinorium",
     "name": "Tainted Renaming",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tiduin",
+    "name": "Tiduins Jade",
     "steamId": null,
     "version": null
   },
@@ -222,22 +582,58 @@
     "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
   },
   {
+    "author": "TimmyLiang",
+    "name": "TradeHelper",
+    "steamId": "2113372560",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "the_heye",
     "name": "Twitch Chat",
     "steamId": "2075845400",
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson und Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
+    "author": "Oskar Potocki, Smash Phil und Sarg Bjornson",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.4.8986.18107"
   },
   {
-    "author": "Sarg Bjornson",
-    "name": "Vanilla Textures Expanded - Variations",
+    "author": "Oskar Potocki und Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Art",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki, dninemfive, Kikohi und Sarg",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": "1957158779",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken und Sarg",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi und Sarg",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas und Kikohi",
+    "name": "Vanilla Furniture Expanded - Spacer Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki und XeoNovaDan",
+    "name": "Vanilla Hair Expanded",
+    "steamId": "1888705256",
+    "version": "1.0.3"
   },
   {
     "author": "Tiduin",
@@ -246,8 +642,44 @@
     "version": null
   },
   {
+    "author": "pureMJ",
+    "name": "While You Are Nearby",
+    "steamId": "2784585275",
+    "version": "0.7.1"
+  },
+  {
+    "author": "Vendan, Kiame Vivacity und \"Just Harry\"",
+    "name": "RimFridge: Now with Shelves!",
+    "steamId": "2898411376",
+    "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.5.0.4"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
+  },
+  {
+    "author": "CodeOptimist",
+    "name": "While You're Up (with add-on for PUAH)",
+    "steamId": "2034960453",
+    "version": "4.0.6.5399+940962909e038e7f989abb2a2e979e6b0a3338bf"
+  },
+  {
     "author": "tk421storm",
     "name": "Zone Message Control",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sjaak31367",
+    "name": "Zoological Trader Caravans",
     "steamId": null,
     "version": null
   },
@@ -258,9 +690,75 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki und Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken und XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Indoor Tree Farms",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Grizzlemethis",
     "name": "[GMT] TicksPerSecond 1.5",
     "steamId": "2874527504",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Telkir und Rain",
+    "name": "[T] MoreFloors 1.5",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Fast Moisture Pumps",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Onyxae",
+    "name": "Dragons Descent",
+    "steamId": "2026992161",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2421"
   }
 ]

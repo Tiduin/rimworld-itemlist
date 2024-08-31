@@ -2944,7 +2944,7 @@
       "abr": "mechlink",
       "category": "Mechtech",
       "defname": "Mechlink",
-      "price": 833
+      "price": 2500
     },
     {
       "abr": "kontroll-sublink(mittelstufe)",
@@ -4295,7 +4295,1351 @@
       "category": "Fertigkeitstrainer",
       "defname": "Neurotrainer_Intellectual",
       "price": 1250
+    },
+    {
+      "abr": "absetzmulde",
+      "category": "Möbel",
+      "defname": "LWM_DeepStorage_Skip",
+      "price": 305
+    },
+    {
+      "abr": "advancedbattery",
+      "category": "Strom",
+      "defname": "VFE_AdvancedBattery",
+      "price": 750
+    },
+    {
+      "abr": "advancedbed",
+      "category": "Möbel",
+      "defname": "Bed_AdvBed",
+      "price": 833
+    },
+    {
+      "abr": "advancedchair",
+      "category": "Möbel",
+      "defname": "Seat_AdvChair",
+      "price": 1267
+    },
+    {
+      "abr": "advanceddoublebed",
+      "category": "Möbel",
+      "defname": "Bed_AdvDoubleBed",
+      "price": 1483
+    },
+    {
+      "abr": "ammocrate",
+      "category": "Möbel",
+      "defname": "VFES_AmmoCrate",
+      "price": 533
+    },
+    {
+      "abr": "arcademachine",
+      "category": "Entspannung",
+      "defname": "Joy_Arcade",
+      "price": 650
+    },
+    {
+      "abr": "archotechsculpture",
+      "category": "Kunst",
+      "defname": "VFE_ArchotechSculpture",
+      "price": 5000
+    },
+    {
+      "abr": "archotechshieldgenerator",
+      "category": "Spezial",
+      "defname": "VFES_ShieldGenerator_Archotech",
+      "price": 4667
+    },
+    {
+      "abr": "archotechviolencegenerator",
+      "category": "Spezial",
+      "defname": "VPE_ArchotechViolenceGenerator",
+      "price": 5667
+    },
+    {
+      "abr": "artillery",
+      "category": "Sicherheit",
+      "defname": "VFES_Turret_Artillery",
+      "price": 1408
+    },
+    {
+      "abr": "arzeischrank",
+      "category": "Möbel",
+      "defname": "LWM_Medicine_Cabinet",
+      "price": 203
+    },
+    {
+      "abr": "außenklimagerät",
+      "category": "Hygiene",
+      "defname": "AirConOutdoorUnit",
+      "price": 458
+    },
+    {
+      "abr": "badematte",
+      "category": "Möbel",
+      "defname": "BathMat",
+      "price": 71
+    },
+    {
+      "abr": "badewanne",
+      "category": "Hygiene",
+      "defname": "BathtubStuff",
+      "price": 124
+    },
+    {
+      "abr": "barber'stable",
+      "category": "Diverses",
+      "defname": "VHE_TableBarber",
+      "price": 328
+    },
+    {
+      "abr": "beartrap",
+      "category": "Sicherheit",
+      "defname": "VFES_BearTrap",
+      "price": 236
+    },
+    {
+      "abr": "bench",
+      "category": "Möbel",
+      "defname": "Seat_Bench",
+      "price": 86
+    },
+    {
+      "abr": "bionischeblase",
+      "category": "Bionisch",
+      "defname": "BionicBladder",
+      "price": 1308
+    },
+    {
+      "abr": "bogenschießscheibe",
+      "category": "Entspannung",
+      "defname": "ArcheryTarget",
+      "price": 248
+    },
+    {
+      "abr": "carving",
+      "category": "Kunst",
+      "defname": "VFE_Carving",
+      "price": 342
+    },
+    {
+      "abr": "chargeturret",
+      "category": "Sicherheit",
+      "defname": "VFES_Turret_ChargeTurret",
+      "price": 1358
+    },
+    {
+      "abr": "countertop",
+      "category": "Möbel",
+      "defname": "Table_Counter",
+      "price": 53
+    },
+    {
+      "abr": "crashedbattery",
+      "category": "Strom",
+      "defname": "Battery_CrashLanded",
+      "price": 270
+    },
+    {
+      "abr": "dartsboard",
+      "category": "Möbel",
+      "defname": "Joy_DartsBoard",
+      "price": 174
+    },
+    {
+      "abr": "decorativeplantpot",
+      "category": "Kunst",
+      "defname": "VFE_DecorativePlantPot",
+      "price": 143
+    },
+    {
+      "abr": "decoy",
+      "category": "Sicherheit",
+      "defname": "VFES_Turret_Decoy",
+      "price": 140
+    },
+    {
+      "abr": "deployableturret",
+      "category": "Sicherheit",
+      "defname": "VFES_Turret_FloorTurret",
+      "price": 983
+    },
+    {
+      "abr": "doppelregal",
+      "category": "Möbel",
+      "defname": "LWM_BigShelf",
+      "price": 257
+    },
+    {
+      "abr": "doppelterwandkühlschrank",
+      "category": "Möbel",
+      "defname": "RimFridge_SingleWallRefrigerator",
+      "price": 121
+    },
+    {
+      "abr": "drugcabinet",
+      "category": "Diverses",
+      "defname": "VFE_DrugCabinet",
+      "price": 700
+    },
+    {
+      "abr": "dunkler1x1-deckenventilator",
+      "category": "Hygiene",
+      "defname": "CeilingFanS",
+      "price": 184
+    },
+    {
+      "abr": "dunkler2x2-deckenventilator",
+      "category": "Hygiene",
+      "defname": "CeilingFan",
+      "price": 184
+    },
+    {
+      "abr": "dusche",
+      "category": "Hygiene",
+      "defname": "ShowerStuff",
+      "price": 90
+    },
+    {
+      "abr": "einfachedusche",
+      "category": "Hygiene",
+      "defname": "ShowerSimple",
+      "price": 52
+    },
+    {
+      "abr": "electricbutcher",
+      "category": "Produktion",
+      "defname": "VFE_TableButcherElectric",
+      "price": 492
+    },
+    {
+      "abr": "electricdruglab",
+      "category": "Produktion",
+      "defname": "VFE_TableDrugLabElectric",
+      "price": 1292
+    },
+    {
+      "abr": "electricstonecutter'stable",
+      "category": "Produktion",
+      "defname": "VFE_TableStonecutterElectric",
+      "price": 1033
+    },
+    {
+      "abr": "elektr.pumpe",
+      "category": "Hygiene",
+      "defname": "ElectricPump",
+      "price": 316
+    },
+    {
+      "abr": "elektr.saunaofen",
+      "category": "Hygiene",
+      "defname": "DBHSaunaHeaterElec",
+      "price": 725
+    },
+    {
+      "abr": "elektr.therme",
+      "category": "Hygiene",
+      "defname": "ElectricBoiler",
+      "price": 425
+    },
+    {
+      "abr": "entwässerungspumpe",
+      "category": "Möbel",
+      "defname": "MoisturePump",
+      "price": 458
+    },
+    {
+      "abr": "ergonomicbed",
+      "category": "Möbel",
+      "defname": "Bed_Ergonomic",
+      "price": 450
+    },
+    {
+      "abr": "ergonomicchair",
+      "category": "Möbel",
+      "defname": "Seat_ModernChair",
+      "price": 917
+    },
+    {
+      "abr": "ergonomicdoublebed",
+      "category": "Möbel",
+      "defname": "Bed_DoubleErgonomic",
+      "price": 867
+    },
+    {
+      "abr": "essenskorb",
+      "category": "Möbel",
+      "defname": "LWM_Food_Basket",
+      "price": 270
+    },
+    {
+      "abr": "fabricationcabinet",
+      "category": "Diverses",
+      "defname": "VFE_FabricationCabinet",
+      "price": 433
+    },
+    {
+      "abr": "filecabinet",
+      "category": "Möbel",
+      "defname": "Misc_FileCabinet",
+      "price": 93
+    },
+    {
+      "abr": "flameturret",
+      "category": "Sicherheit",
+      "defname": "VFES_Turret_Flame",
+      "price": 958
+    },
+    {
+      "abr": "fleischhaken",
+      "category": "Möbel",
+      "defname": "LWM_Meat_Hook",
+      "price": 254
+    },
+    {
+      "abr": "fueledsmelter",
+      "category": "Produktion",
+      "defname": "VFE_FueledSmelter",
+      "price": 550
+    },
+    {
+      "abr": "glasspane",
+      "category": "Hergestellt",
+      "defname": "GlassPane",
+      "price": 22
+    },
+    {
+      "abr": "grandrug",
+      "category": "Kunst",
+      "defname": "VFE_RugGrand",
+      "price": 883
+    },
+    {
+      "abr": "grandstatue",
+      "category": "Kunst",
+      "defname": "VFE_StatueGrand",
+      "price": 1125
+    },
+    {
+      "abr": "großerheizkörper",
+      "category": "Hygiene",
+      "defname": "RadiatorLarge",
+      "price": 252
+    },
+    {
+      "abr": "großerkühlschrank",
+      "category": "Möbel",
+      "defname": "RimFridge_QuadRefrigerator",
+      "price": 307
+    },
+    {
+      "abr": "handtuchhalter",
+      "category": "Hygiene",
+      "defname": "RadiatorTowelRail",
+      "price": 85
+    },
+    {
+      "abr": "heizkörper",
+      "category": "Hygiene",
+      "defname": "RadiatorStuffed",
+      "price": 85
+    },
+    {
+      "abr": "heuboden",
+      "category": "Möbel",
+      "defname": "LWM_Hayloft",
+      "price": 287
+    },
+    {
+      "abr": "hoheregale",
+      "category": "Möbel",
+      "defname": "LWM_VeryBigShelf",
+      "price": 550
+    },
+    {
+      "abr": "hologrambase",
+      "category": "Kunst",
+      "defname": "HologramBase",
+      "price": 467
+    },
+    {
+      "abr": "holz-therme",
+      "category": "Hygiene",
+      "defname": "LogBoiler",
+      "price": 642
+    },
+    {
+      "abr": "hygieneverstärker",
+      "category": "Bionisch",
+      "defname": "HygieneEnhancer",
+      "price": 1308
+    },
+    {
+      "abr": "illuminateddresser",
+      "category": "Möbel",
+      "defname": "Table_IlluminatedDresser",
+      "price": 367
+    },
+    {
+      "abr": "illuminatedendtable",
+      "category": "Möbel",
+      "defname": "Table_IlluminatedEndTable",
+      "price": 286
+    },
+    {
+      "abr": "industrialradio",
+      "category": "Entspannung",
+      "defname": "Radio_Industrial",
+      "price": 433
+    },
+    {
+      "abr": "innenklimagerät",
+      "category": "Hygiene",
+      "defname": "AirconIndoorUnit",
+      "price": 82
+    },
+    {
+      "abr": "interactivetable(1x1)",
+      "category": "Möbel",
+      "defname": "Table_interactive_1x1c",
+      "price": 500
+    },
+    {
+      "abr": "interactivetable(2x2)",
+      "category": "Möbel",
+      "defname": "Table_interactive_2x2c",
+      "price": 925
+    },
+    {
+      "abr": "kampfkunstdummy",
+      "category": "Entspannung",
+      "defname": "MartialArtsTarget",
+      "price": 251
+    },
+    {
+      "abr": "kitchensinkcabinet",
+      "category": "Diverses",
+      "defname": "VFE_KitchenSinkCabinet",
+      "price": 327
+    },
+    {
+      "abr": "klärdünger",
+      "category": "Abfallprodukte",
+      "defname": "Biosolids",
+      "price": -10
+    },
+    {
+      "abr": "klärdünger-komposter",
+      "category": "Hygiene",
+      "defname": "BiosolidsComposter",
+      "price": 146
+    },
+    {
+      "abr": "kleiderständer",
+      "category": "Möbel",
+      "defname": "LWM_Clothing_Rack",
+      "price": 170
+    },
+    {
+      "abr": "körbe",
+      "category": "Möbel",
+      "defname": "LWM_FabricHamper",
+      "price": 383
+    },
+    {
+      "abr": "kühlschrank",
+      "category": "Möbel",
+      "defname": "RimFridge_Refrigerator",
+      "price": 186
+    },
+    {
+      "abr": "lampendtable",
+      "category": "Möbel",
+      "defname": "Table_LightEndTable",
+      "price": 169
+    },
+    {
+      "abr": "largeadvancedbattery",
+      "category": "Strom",
+      "defname": "VFE_LargeAdvancedBattery",
+      "price": 1467
+    },
+    {
+      "abr": "largebattery",
+      "category": "Strom",
+      "defname": "VFE_LargeBattery",
+      "price": 667
+    },
+    {
+      "abr": "largebin",
+      "category": "Möbel",
+      "defname": "Bin_Large",
+      "price": 305
+    },
+    {
+      "abr": "largerug",
+      "category": "Kunst",
+      "defname": "VFE_RugLarge",
+      "price": 492
+    },
+    {
+      "abr": "largestatue",
+      "category": "Kunst",
+      "defname": "VFE_StatueLarge",
+      "price": 583
+    },
+    {
+      "abr": "largevanometricpowercell",
+      "category": "Spezial",
+      "defname": "VFE_LargeVanometricPowerCell",
+      "price": 4000
+    },
+    {
+      "abr": "latrine",
+      "category": "Hygiene",
+      "defname": "PitLatrine",
+      "price": 55
+    },
+    {
+      "abr": "leistungsschalter",
+      "category": "Strom",
+      "defname": "Building_RTCircuitBreaker",
+      "price": 278
+    },
+    {
+      "abr": "longwaveradio",
+      "category": "Entspannung",
+      "defname": "Radio_Spacer",
+      "price": 1033
+    },
+    {
+      "abr": "löschsprinkler",
+      "category": "Hygiene",
+      "defname": "FireSprinkler",
+      "price": 104
+    },
+    {
+      "abr": "machiningcabinet",
+      "category": "Diverses",
+      "defname": "VFE_MachiningCabinet",
+      "price": 483
+    },
+    {
+      "abr": "magneticshield",
+      "category": "Strom",
+      "defname": "Building_RTMagneticShield",
+      "price": 1633
+    },
+    {
+      "abr": "militaryturret",
+      "category": "Sicherheit",
+      "defname": "VFES_Turret_MilitaryTurret",
+      "price": 675
+    },
+    {
+      "abr": "mini-kühlschrank",
+      "category": "Möbel",
+      "defname": "RimFridge_SingleRefrigerator",
+      "price": 121
+    },
+    {
+      "abr": "moderncomputer",
+      "category": "Entspannung",
+      "defname": "Joy_ModernComputer",
+      "price": 1100
+    },
+    {
+      "abr": "monument",
+      "category": "Kunst",
+      "defname": "VFE_Monument",
+      "price": 2100
+    },
+    {
+      "abr": "nutrientpastedripper",
+      "category": "Diverses",
+      "defname": "VNPE_NutrientPasteDripper",
+      "price": 248
+    },
+    {
+      "abr": "nutrientpastefeeder",
+      "category": "Möbel",
+      "defname": "VNPE_NutrientPasteFeeder",
+      "price": 68
+    },
+    {
+      "abr": "obelisk",
+      "category": "Kunst",
+      "defname": "VFE_Obelisk",
+      "price": 775
+    },
+    {
+      "abr": "oldcomputer",
+      "category": "Entspannung",
+      "defname": "Joy_InudstrialComputer",
+      "price": 517
+    },
+    {
+      "abr": "outdoorlamp",
+      "category": "Möbel",
+      "defname": "Light_Streetlamp",
+      "price": 128
+    },
+    {
+      "abr": "outdoorsolarlamp",
+      "category": "Möbel",
+      "defname": "Spacer_OutdoorLamp",
+      "price": 184
+    },
+    {
+      "abr": "palette",
+      "category": "Möbel",
+      "defname": "LWM_Pallet",
+      "price": 220
+    },
+    {
+      "abr": "palettemitverpackung",
+      "category": "Möbel",
+      "defname": "LWM_Pallet_Covered",
+      "price": 321
+    },
+    {
+      "abr": "pillar",
+      "category": "Kunst",
+      "defname": "VFE_Pillar",
+      "price": 450
+    },
+    {
+      "abr": "plinth",
+      "category": "Kunst",
+      "defname": "VFE_Plinth",
+      "price": 442
+    },
+    {
+      "abr": "portablechemfuelpoweredgenerator",
+      "category": "Strom",
+      "defname": "VFE_PortableChemfuelPoweredGenerator",
+      "price": 242
+    },
+    {
+      "abr": "portablewood-firedgenerator",
+      "category": "Strom",
+      "defname": "VFE_PortableWoodFiredGenerator",
+      "price": 189
+    },
+    {
+      "abr": "pottery",
+      "category": "Kunst",
+      "defname": "VFE_Pottery",
+      "price": 143
+    },
+    {
+      "abr": "power-dusche",
+      "category": "Hygiene",
+      "defname": "ShowerAdvStuff",
+      "price": 170
+    },
+    {
+      "abr": "provisorischesicherung",
+      "category": "Strom",
+      "defname": "Building_RTMakeshiftFuse",
+      "price": 120
+    },
+    {
+      "abr": "punchingbag",
+      "category": "Möbel",
+      "defname": "Joy_PunchingBag",
+      "price": 375
+    },
+    {
+      "abr": "relief",
+      "category": "Kunst",
+      "defname": "VFE_Relief",
+      "price": 1983
+    },
+    {
+      "abr": "repairshelf",
+      "category": "Möbel",
+      "defname": "Shelf_RepairRack",
+      "price": 2908
+    },
+    {
+      "abr": "roulettetable",
+      "category": "Möbel",
+      "defname": "Joy_RouletteTable",
+      "price": 708
+    },
+    {
+      "abr": "royalarmchair",
+      "category": "Möbel",
+      "defname": "Seat_RoyalArmchair",
+      "price": 1583
+    },
+    {
+      "abr": "royalchair",
+      "category": "Möbel",
+      "defname": "Seat_RoyalChair",
+      "price": 908
+    },
+    {
+      "abr": "royaldresser",
+      "category": "Möbel",
+      "defname": "Table_RoyalDresser",
+      "price": 1175
+    },
+    {
+      "abr": "royalendtable",
+      "category": "Möbel",
+      "defname": "Table_RoyalEndTable",
+      "price": 742
+    },
+    {
+      "abr": "royalposterbed",
+      "category": "Möbel",
+      "defname": "Bed_Kingsize",
+      "price": 2008
+    },
+    {
+      "abr": "royaltable(1x1)",
+      "category": "Möbel",
+      "defname": "Table_Royal1x1c",
+      "price": 280
+    },
+    {
+      "abr": "royaltable(1x2)",
+      "category": "Möbel",
+      "defname": "Table_Royal1x2c",
+      "price": 542
+    },
+    {
+      "abr": "royaltable(2x2)",
+      "category": "Möbel",
+      "defname": "Table_Royal2x2c",
+      "price": 1092
+    },
+    {
+      "abr": "royaltable(2x4)",
+      "category": "Möbel",
+      "defname": "Table_Royal2x4c",
+      "price": 1475
+    },
+    {
+      "abr": "royaltable(3x3)",
+      "category": "Möbel",
+      "defname": "Table_Royal3x3c",
+      "price": 1617
+    },
+    {
+      "abr": "saunaofen",
+      "category": "Hygiene",
+      "defname": "DBHSaunaHeaterLog",
+      "price": 675
+    },
+    {
+      "abr": "saunasitz",
+      "category": "Möbel",
+      "defname": "DBHSaunaSeating",
+      "price": 9
+    },
+    {
+      "abr": "scarecrow",
+      "category": "Diverses",
+      "defname": "VFE_Scarecrow",
+      "price": 129
+    },
+    {
+      "abr": "schießstanddummy",
+      "category": "Entspannung",
+      "defname": "ShootingRangeTarget",
+      "price": 325
+    },
+    {
+      "abr": "searchlight",
+      "category": "Sicherheit",
+      "defname": "VFES_Turret_Searchlight",
+      "price": 475
+    },
+    {
+      "abr": "sentrygun",
+      "category": "Sicherheit",
+      "defname": "VFES_Turret_SentryGun",
+      "price": 1058
+    },
+    {
+      "abr": "simplebed",
+      "category": "Möbel",
+      "defname": "Bed_Simple",
+      "price": 137
+    },
+    {
+      "abr": "sittingcushion",
+      "category": "Möbel",
+      "defname": "Seat_Cushion",
+      "price": 86
+    },
+    {
+      "abr": "slabbed",
+      "category": "Möbel",
+      "defname": "Bed_StoneSlab",
+      "price": 111
+    },
+    {
+      "abr": "smallbattery",
+      "category": "Strom",
+      "defname": "VFE_SmallBattery",
+      "price": 182
+    },
+    {
+      "abr": "smallbin",
+      "category": "Möbel",
+      "defname": "Bin_Small",
+      "price": 136
+    },
+    {
+      "abr": "smallrug",
+      "category": "Kunst",
+      "defname": "VFE_RugSmall",
+      "price": 184
+    },
+    {
+      "abr": "smallshieldgenerator",
+      "category": "Sicherheit",
+      "defname": "VFES_ShieldGenerator_Small",
+      "price": 3983
+    },
+    {
+      "abr": "smallstatue",
+      "category": "Kunst",
+      "defname": "VFE_StatueSmall",
+      "price": 275
+    },
+    {
+      "abr": "smallvanometricpowercell",
+      "category": "Spezial",
+      "defname": "VFE_SmallVanometricPowerCell",
+      "price": 667
+    },
+    {
+      "abr": "smartetoilette",
+      "category": "Hygiene",
+      "defname": "ToiletAdvStuff",
+      "price": 182
+    },
+    {
+      "abr": "smithingcabinet",
+      "category": "Diverses",
+      "defname": "VFE_SmithyCabinet",
+      "price": 483
+    },
+    {
+      "abr": "spacerlamp",
+      "category": "Möbel",
+      "defname": "Light_SpacerLamp",
+      "price": 184
+    },
+    {
+      "abr": "sprinkler",
+      "category": "Hygiene",
+      "defname": "IrrigationSprinkler",
+      "price": 102
+    },
+    {
+      "abr": "sprinkler",
+      "category": "Diverses",
+      "defname": "VFE_Sprinkler",
+      "price": 182
+    },
+    {
+      "abr": "sprit-therme",
+      "category": "Hygiene",
+      "defname": "GasBoiler",
+      "price": 425
+    },
+    {
+      "abr": "spülbecken",
+      "category": "Hygiene",
+      "defname": "KitchenSink",
+      "price": 167
+    },
+    {
+      "abr": "squarechair",
+      "category": "Möbel",
+      "defname": "Seat_SquareChair",
+      "price": 198
+    },
+    {
+      "abr": "table(1x1)",
+      "category": "Möbel",
+      "defname": "Table_1x1c",
+      "price": 70
+    },
+    {
+      "abr": "blackdragon",
+      "category": "Tiere",
+      "defname": "Black_Dragon",
+      "price": 11000
+    },
+    {
+      "abr": "blackdragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggBlackDragonFertilized",
+      "price": 5333
+    },
+    {
+      "abr": "bluedragon",
+      "category": "Tiere",
+      "defname": "Blue_Dragon",
+      "price": 11000
+    },
+    {
+      "abr": "bluedragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggBlueDragonFertilized",
+      "price": 4167
+    },
+    {
+      "abr": "doublecrossbow",
+      "category": "Fernkampfwaffen",
+      "defname": "DD_Bow_DoubleCrossbow",
+      "price": 500
+    },
+    {
+      "abr": "drachensword",
+      "category": "Nahkampfwaffen",
+      "defname": "DD_MeleeWeapon_DrachenSword",
+      "price": 3667
+    },
+    {
+      "abr": "draconicambrosia",
+      "category": "Drogen",
+      "defname": "DraconicAmbrosia",
+      "price": 60
+    },
+    {
+      "abr": "dragonaltar",
+      "category": "Möbel",
+      "defname": "Altar",
+      "price": 675
+    },
+    {
+      "abr": "dragoncrown",
+      "category": "Kopfbedeckung",
+      "defname": "DD_Apparel_DragonCrown",
+      "price": 1683
+    },
+    {
+      "abr": "dragonegg(unfert.)",
+      "category": "Ei (unbefr.)",
+      "defname": "EggDragonUnfertilized",
+      "price": 42
+    },
+    {
+      "abr": "dragonhorn",
+      "category": "Objekte",
+      "defname": "DragonHorn",
+      "price": 1450
+    },
+    {
+      "abr": "dragonleather",
+      "category": "Leder",
+      "defname": "Dragon_Leather",
+      "price": 29
+    },
+    {
+      "abr": "dragonmeat",
+      "category": "Fleisch",
+      "defname": "Meat_Red_Dragon",
+      "price": 3
+    },
+    {
+      "abr": "dragonnest",
+      "category": "Möbel",
+      "defname": "DragonNest",
+      "price": 44
+    },
+    {
+      "abr": "dragonpillow",
+      "category": "Möbel",
+      "defname": "DragonPillow",
+      "price": 206
+    },
+    {
+      "abr": "dragonstatueritual",
+      "category": "Kunst",
+      "defname": "DD_DragonStatueRitual_Grand",
+      "price": 2467
+    },
+    {
+      "abr": "dragonstatueritual",
+      "category": "Kunst",
+      "defname": "DD_DragonStatueRitual_Large",
+      "price": 850
+    },
+    {
+      "abr": "dragonstatueritual",
+      "category": "Kunst",
+      "defname": "DD_DragonStatueRitual_Small",
+      "price": 408
+    },
+    {
+      "abr": "dragonfirelauncher",
+      "category": "Fernkampfwaffen",
+      "defname": "DD_Gun_DragonfireLauncher",
+      "price": 5000
+    },
+    {
+      "abr": "dragon'sblood",
+      "category": "Drogen",
+      "defname": "DragonsBlood",
+      "price": 97
+    },
+    {
+      "abr": "focusingtome",
+      "category": "Nahkampfwaffen",
+      "defname": "DDMeleeWeapon_FocusingTome",
+      "price": 2667
+    },
+    {
+      "abr": "golddragon",
+      "category": "Tiere",
+      "defname": "Gold_Dragon",
+      "price": 13167
+    },
+    {
+      "abr": "golddragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggGoldDragonFertilized",
+      "price": 6833
+    },
+    {
+      "abr": "greendragon",
+      "category": "Tiere",
+      "defname": "Green_Dragon",
+      "price": 11000
+    },
+    {
+      "abr": "greendragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggGreenDragonFertilized",
+      "price": 4167
+    },
+    {
+      "abr": "harddragonscale",
+      "category": "Rohstoffe",
+      "defname": "HardScale",
+      "price": 6
+    },
+    {
+      "abr": "hornedlance",
+      "category": "Nahkampfwaffen",
+      "defname": "DD_MeleeWeapon_HornedLance",
+      "price": 3833
+    },
+    {
+      "abr": "jadedragon",
+      "category": "Tiere",
+      "defname": "Jade_Dragon",
+      "price": 13167
+    },
+    {
+      "abr": "jadedragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggJadeDragonFertilized",
+      "price": 6833
+    },
+    {
+      "abr": "jewelberries",
+      "category": "Vegetarisch",
+      "defname": "JewelBerries",
+      "price": 3
+    },
+    {
+      "abr": "jeweledrhizome",
+      "category": "Vegetarisch",
+      "defname": "Jeweledrhizomeraw",
+      "price": 3
+    },
+    {
+      "abr": "matinghorn",
+      "category": "Artefakte",
+      "defname": "MatingHorn",
+      "price": 3333
+    },
+    {
+      "abr": "moonstone",
+      "category": "Drogen",
+      "defname": "MoonStone",
+      "price": 47
+    },
+    {
+      "abr": "psychicaginglance",
+      "category": "Artefakte",
+      "defname": "PubertyLance",
+      "price": 3083
+    },
+    {
+      "abr": "purpledragon",
+      "category": "Tiere",
+      "defname": "Purple_Dragon",
+      "price": 11000
+    },
+    {
+      "abr": "purpledragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggPurpleDragonFertilized",
+      "price": 4167
+    },
+    {
+      "abr": "raredragonleather",
+      "category": "Leder",
+      "defname": "Rare_Dragon_Leather",
+      "price": 38
+    },
+    {
+      "abr": "reddragon",
+      "category": "Tiere",
+      "defname": "Red_Dragon",
+      "price": 11000
+    },
+    {
+      "abr": "reddragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggRedDragonFertilized",
+      "price": 5333
+    },
+    {
+      "abr": "scalehelmet",
+      "category": "Kopfbedeckung",
+      "defname": "DD_Apparel_ScaleHelm",
+      "price": 189
+    },
+    {
+      "abr": "scalemail",
+      "category": "Rüstung",
+      "defname": "DD_Apparel_ScaleMail",
+      "price": 675
+    },
+    {
+      "abr": "silverdragon",
+      "category": "Tiere",
+      "defname": "Silver_Dragon",
+      "price": 13167
+    },
+    {
+      "abr": "silverdragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggSilverDragonFertilized",
+      "price": 6833
+    },
+    {
+      "abr": "tablettständer",
+      "category": "Möbel",
+      "defname": "LWM_MealRack",
+      "price": 255
+    },
+    {
+      "abr": "tailorcabinet",
+      "category": "Diverses",
+      "defname": "VFE_TailorCabinet",
+      "price": 327
+    },
+    {
+      "abr": "thermostat",
+      "category": "Hygiene",
+      "defname": "Thermostat",
+      "price": 86
+    },
+    {
+      "abr": "thrumbobattleaxe",
+      "category": "Nahkampfwaffen",
+      "defname": "DDMeleeWeapon_ThrumboBattleAxe",
+      "price": 1833
+    },
+    {
+      "abr": "tiefkühlgerät",
+      "category": "Hygiene",
+      "defname": "FreezerUnit",
+      "price": 153
+    },
+    {
+      "abr": "tierklo",
+      "category": "Hygiene",
+      "defname": "LitterBox",
+      "price": 52
+    },
+    {
+      "abr": "toilette",
+      "category": "Hygiene",
+      "defname": "ToiletStuff",
+      "price": 72
+    },
+    {
+      "abr": "tresor",
+      "category": "Möbel",
+      "defname": "LWM_Safe",
+      "price": 1017
+    },
+    {
+      "abr": "truedragon",
+      "category": "Tiere",
+      "defname": "True_Dragon",
+      "price": 13167
+    },
+    {
+      "abr": "truedragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggTrueDragonFertilized",
+      "price": 11083
+    },
+    {
+      "abr": "truedragonleather",
+      "category": "Leder",
+      "defname": "True_Dragon_Leather",
+      "price": 71
+    },
+    {
+      "abr": "ultrascreentelevision",
+      "category": "Entspannung",
+      "defname": "UltrascreenTV",
+      "price": 4100
+    },
+    {
+      "abr": "uprightpiano",
+      "category": "Entspannung",
+      "defname": "Joy_Piano",
+      "price": 908
+    },
+    {
+      "abr": "ventil",
+      "category": "Hygiene",
+      "defname": "plumbingValve",
+      "price": 50
+    },
+    {
+      "abr": "verstärkterwaffenschrank",
+      "category": "Möbel",
+      "defname": "LWM_WeaponsLocker",
+      "price": 237
+    },
+    {
+      "abr": "waffenschrank",
+      "category": "Möbel",
+      "defname": "LWM_WeaponsCabinet",
+      "price": 254
+    },
+    {
+      "abr": "wandkühlschrank",
+      "category": "Möbel",
+      "defname": "RimFridge_WallRefrigerator",
+      "price": 186
+    },
+    {
+      "abr": "wardrobe",
+      "category": "Möbel",
+      "defname": "Table_Wardrobe",
+      "price": 285
+    },
+    {
+      "abr": "warmwasserspeicher",
+      "category": "Hygiene",
+      "defname": "HotWaterTank",
+      "price": 245
+    },
+    {
+      "abr": "waschbecken",
+      "category": "Hygiene",
+      "defname": "BasinStuff",
+      "price": 52
+    },
+    {
+      "abr": "waschmaschine",
+      "category": "Hygiene",
+      "defname": "WashingMachine",
+      "price": 433
+    },
+    {
+      "abr": "waschzuber",
+      "category": "Hygiene",
+      "defname": "WashBucket",
+      "price": 52
+    },
+    {
+      "abr": "wassernapf",
+      "category": "Hygiene",
+      "defname": "PetWaterBowl",
+      "price": 51
+    },
+    {
+      "abr": "wasserspender",
+      "category": "Hygiene",
+      "defname": "Fountain",
+      "price": 52
+    },
+    {
+      "abr": "wassertrog",
+      "category": "Hygiene",
+      "defname": "WaterTrough",
+      "price": 249
+    },
+    {
+      "abr": "weaponrack",
+      "category": "Möbel",
+      "defname": "Shelf_WeaponRack",
+      "price": 137
+    },
+    {
+      "abr": "webstuhl",
+      "category": "Produktion",
+      "defname": "BenchWoolLoom",
+      "price": 148
+    },
+    {
+      "abr": "whirlpool",
+      "category": "Hygiene",
+      "defname": "HotTub",
+      "price": 800
+    },
+    {
+      "abr": "whitedragon",
+      "category": "Tiere",
+      "defname": "White_Dragon",
+      "price": 11000
+    },
+    {
+      "abr": "whitedragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggWhiteDragonFertilized",
+      "price": 4167
+    },
+    {
+      "abr": "wingcape",
+      "category": "Kleidung",
+      "defname": "DD_Apparel_WingCape",
+      "price": 425
+    },
+    {
+      "abr": "wollstoff",
+      "category": "Textilien",
+      "defname": "WoolCloth",
+      "price": 3
+    },
+    {
+      "abr": "yellowdragon",
+      "category": "Tiere",
+      "defname": "Yellow_Dragon",
+      "price": 11000
+    },
+    {
+      "abr": "yellowdragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggYellowDragonFertilized",
+      "price": 4167
+    },
+    {
+      "abr": "zombrella",
+      "category": "Diverses",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
-  "total": 716
+  "total": 940
 }
