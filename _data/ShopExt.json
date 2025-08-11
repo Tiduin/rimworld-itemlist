@@ -3,8 +3,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy genießt das Gefühl der Freiheit, das er hat, wenn er unbekleidet ist. er kann zwar Kleidung tragen, aber ist ohne sie glücklicher.",
       "stats": [],
@@ -25,8 +25,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy bekommt einen Kick, wenn er jemanden verletzt, und stört sich nicht am Anblick von Blut und Tod. Die Chance, dass er eine Prügelei beginnt, ist viermal höher als normal.",
       "stats": [
@@ -51,8 +51,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy ist ein außergewöhnlich netter und großzügiger Mensch. er wird andere nur selten beleidigen und manchmal freundliche Worte äußern, um seine Mitmenschen aufzuheitern. Außerdem wird er Menschen niemals nach ihrem Aussehen beurteilen. seine Nettigkeit führt aber dazu, dass er sich eher den vorherrschenden Meinungen anpasst.",
       "stats": [
@@ -83,10 +83,10 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
-      "description": "Timmy hat kein Mitgefühl. Das Leid der anderen stört ihn überhaupt nicht. Es macht PAWN_gender ? ihm : ihr nichts aus, wenn andere geschlachtet, tot liegen gelassen, eingesperrt oder in die Sklaverei verkauft werden - es sei denn, es betrifft ihn selbst. er bekommt keinen Stimmungsbonus durch soziale Interaktionen.",
+      "description": "Timmy hat kein Mitgefühl. Das Leid der anderen stört ihn überhaupt nicht. Es macht PAWN_gender ? ihm : ihr nichts aus, wenn andere geschlachtet, tot liegen gelassen, eingesperrt oder in die Sklaverei verkauft werden – es sei denn, es betrifft ihn selbst. er bekommt keinen Stimmungsbonus durch soziale Interaktionen.",
       "stats": [
         "Morbid meditation focus type allowed.",
         "x50% Global-Glaubensverlust-Faktor"
@@ -111,8 +111,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy bekam beigebracht, dass es falsch und schrecklich ist, Menschenfleisch zu essen. Trotzdem hat er es einmal probiert․․․ und es hat PAWN_gender ? ihm : ihr geschmeckt.",
       "stats": [
@@ -137,8 +137,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy sagt immer genau das, was er denkt, vor allem dann, wenn es ihn stört. Dieses Verhalten wird von anderen oft als unangenehm empfunden.",
       "stats": [
@@ -163,8 +163,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy ist schlauer als PAWN_gender ? ihm : ihr lieb ist. er lernt alles viel schneller als andere, kann aber auch ziemlich exzentrisch sein.",
       "stats": [
@@ -205,8 +205,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy liebt es, wenn Kämpfe nah und persönlich sind. seine Genauigkeit im Nahkampf ist unübertroffen, aber er bekommt schlechte Laune, wenn er eine Fernkampfwaffe tragen muss.",
       "stats": [
@@ -245,10 +245,10 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
-      "description": "Timmy findet es erregend, verletzt zu werden. Die Gründe dafür kennt er nicht - er ist einfach anders gestrickt.",
+      "description": "Timmy findet es erregend, verletzt zu werden. Die Gründe dafür kennt er nicht – er ist einfach anders gestrickt.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -275,8 +275,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy mag es, nachts wach zu sein und tagsüber zu schlafen.\n\nseine Stimmung verbessert sich, wenn er nachts (23 bis 6 Uhr) wach ist, aber verschlechtert sich, wenn er tagsüber (11 bis 18 Uhr) wach ist.\n\ner bekommt keinen Stimmungsabzug, wenn er sich im Dunkeln aufhält.",
       "stats": [],
@@ -297,8 +297,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy braucht einen wirklich imposanten Schlafraum. seine Stimmung verschlechtert sich, wenn er nicht bekommt, was er will.",
       "stats": [],
@@ -325,8 +325,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy fühlt sich beleidigt, wenn sein Schlafraum nicht so imposant ist wie der eines anderen. seine Stimmung verschlechtert sich, wenn ein anderer Kolonist einen imposanteren Schlafraum hat.",
       "stats": [
@@ -357,8 +357,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy verzichtet auf körperliche Annehmlichkeiten und Vergnügen zugunsten eines einfachen, reinen Lebensstils. er bekommt schlechte Laune, wenn sein Schlafraum zu imposant ist. Außerdem verabscheut er ausgefallenes Essen und isst am liebsten roh. er beurteilt andere nie nach ihrem Aussehen.",
       "stats": [
@@ -395,8 +395,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy fühlt sich sexuell zu Menschen seines eigenen Geschlechts hingezogen.",
       "stats": [],
@@ -417,8 +417,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy fühlt sich sowohl zu Männern als auch Frauen sexuell hingezogen.",
       "stats": [],
@@ -439,8 +439,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy empfindet keinerlei sexuelles Verlangen.",
       "stats": [],
@@ -461,10 +461,10 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": 0,
-      "description": "Timmy hat eine ausgesprochen schrille, nasale Stimme und neigt dazu, sich in lauten, unverständlichen Sätzen auszudrücken - sehr zum Leidwesen anderer.",
+      "description": "Timmy hat eine ausgesprochen schrille, nasale Stimme und neigt dazu, sich in lauten, unverständlichen Sätzen auszudrücken – sehr zum Leidwesen anderer.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -483,8 +483,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy atmet schwer und ist ständig am Schwitzen. Andere Leute finden das unheimlich.",
       "stats": [],
@@ -505,8 +505,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy liebt das Feuer. er wird nie ein Feuer löschen. Außerdem wird er gelegentlich zum Feuerteufel und willkürlich Brände entfachen. er fühlt sich in der Nähe von Flammen wohl und ist noch glücklicher, wenn er eine Brandwaffe besitzt.",
       "stats": [
@@ -533,8 +533,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy ist schwach und feige. Schon der kleinste Schmerz wird ihn umhauen.",
       "stats": [
@@ -567,8 +567,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy verfügt über eine bemerkenswerte kinästhetische Intelligenz. er scheint Gefahren mit außergewöhnlicher Eleganz zu umtanzen.",
       "stats": [
@@ -595,8 +595,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy hat eine Begabung fürs Lernen. er begreift Dinge viel schneller als andere.",
       "stats": [
@@ -621,8 +621,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy ist schwer von Begriff. er lernt viel langsamer als andere.",
       "stats": [
@@ -653,8 +653,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy hat kein Bedürfnis, nach draußen zu gehen oder im Hellen zu sein. er wird sich nie eingesperrt fühlen oder einen Lagerkoller bekommen, und stört sich nicht an der Dunkelheit. Allerdings bekommt Timmy schlechte Laune, wenn er draußen ist.",
       "stats": [
@@ -679,8 +679,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy fühlt sich durch seinen schwachen menschlichen Körper eingeschränkt. er träumt oft davon, mit künstlichen Körperteilen oder Xenogenetik verbessert zu werden.",
       "stats": [],
@@ -705,8 +705,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy glaubt, dass der menschliche Körper aus gutem Grund begrenzt ist. Für ihn sind künstliche Körperteile und Xenogene unethisch und abstoßend.",
       "stats": [],
@@ -731,10 +731,10 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
-      "description": "Timmy hat eine starke Abneigung gegen alle Männer und misstraut ihnen.",
+      "description": "Timmy hat eine starke Abneigung gegen Männer und misstraut ihnen.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -753,10 +753,10 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
-      "description": "Timmy hat eine starke Abneigung gegen alle Frauen und misstraut ihnen.",
+      "description": "Timmy hat eine starke Abneigung gegen Frauen und misstraut ihnen.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -775,8 +775,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy hat ein fantastisches Gedächtnis für Details. er vergisst ungenutzte Fertigkeiten nur halb so schnell wie andere Menschen.",
       "stats": [],
@@ -797,8 +797,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy hat eine dicke Haut, zähes Fleisch und sehr stabile Knochen. er erleidet bei gleichvielen Schlägen deutlich weniger Schaden als andere und ist sehr schwer zu töten.",
       "stats": [
@@ -823,8 +823,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy fühlt sich von anderen Menschen entfremdet und missverstanden. er hat einen ständigen Stimmungsmalus, aber es besteht eine 50%ige Chance, dass er nach einem Nervenzusammenbruch eine kreative Eingebung erhält.",
       "stats": [
@@ -849,8 +849,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy denkt ständig ans Essen. er wird schnell hungrig und bekommt gelegentlich den Drang, sich mit Essen vollzustopfen, auch wenn er eigentlich gar keinen Hunger hat.",
       "stats": [
@@ -881,8 +881,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy braucht nicht so viel Schlaf wie andere. er wird, egal ob im Bett oder auf dem Boden, in etwa zwei Drittel der üblichen Zeit ausgeruht sein.",
       "stats": [
@@ -907,8 +907,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": -1,
       "description": "Timmy fällt immer hinter der Gruppe zurück, wenn er irgendwo hingeht.",
       "stats": [
@@ -935,8 +935,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 1,
       "description": "Timmy ist gerne dort, wo er hingeht. er läuft schneller als die meisten anderen.",
       "stats": [
@@ -961,10 +961,10 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 2,
-      "description": "Timmy läuft immer, als hätte er es eilig - so eilig, dass andere oft nicht mithalten können.",
+      "description": "Timmy läuft immer, als hätte er es eilig – so eilig, dass andere oft nicht mithalten können.",
       "stats": [
         "+0.40 Laufgeschwindigkeit"
       ],
@@ -987,8 +987,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 2,
       "description": "Timmy ist völlig fasziniert von chemischen Rauschmitteln. Der Konsum von Drogen sorgt für gute Laune, während ein Verzicht auf Drogen zunehmend zu Frustration und möglicherweise zu Drogenexzessen führt. er wird Richtlinien, die PAWN_gender ? ihm : ihr vorschreiben, keine Drogen zu nehmen, ignorieren und mehr konsumieren als ein normaler Mensch.",
       "stats": [],
@@ -1009,8 +1009,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 1,
       "description": "Timmy hat ein ungewöhnliches Interesse an chemischen Rauschmitteln. Der Konsum von Drogen sorgt für gute Laune, während ein Verzicht auf Drogen zunehmend zu Frustration und möglicherweise zu Drogenexzessen führt. er wird Richtlinien, die PAWN_gender ? ihm : ihr vorschreiben, keine Drogen zu nehmen, ignorieren und mehr konsumieren als ein normaler Mensch.",
       "stats": [],
@@ -1031,8 +1031,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": -1,
       "description": "Timmy verabscheut den Gedanken, sich an chemischen Rauschmitteln zu erfreuen. er verzichtet strikt auf Alkohol und Drogen.",
       "stats": [
@@ -1059,8 +1059,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 2,
       "description": "Timmy ist von Natur aus positiv gestimmt, und zwar zu jeder Zeit, egal in welcher Situation.",
       "stats": [],
@@ -1081,8 +1081,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 1,
       "description": "Timmy ist von Natur aus optimistisch. Es ist schwer, ihn zu entmutigen.",
       "stats": [],
@@ -1103,8 +1103,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": -1,
       "description": "Timmy ist von Natur aus pessimistisch. er neigt dazu, eher die negativen Seiten des Lebens zu sehen.",
       "stats": [],
@@ -1125,8 +1125,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": -2,
       "description": "Timmy ist dauernd unglücklich. Es fällt PAWN_gender ? ihm : ihr schwer, dauerhaft gute Laune zu haben, selbst wenn alles in Ordnung ist.",
       "stats": [],
@@ -1147,8 +1147,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 2,
       "description": "Der Wille von Timmy ist ein eiserner Schild. er geht durch dick und dünn, wo andere schon längst zusammengebrochen wären.",
       "stats": [
@@ -1175,8 +1175,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 1,
       "description": "Timmy besitzt große mentale Stärke und hält sogar Belastungen stand, an denen andere längst zerbrochen wären.",
       "stats": [
@@ -1203,8 +1203,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": -1,
       "description": "Timmy neigt dazu, unter Stress zu zerbrechen.",
       "stats": [
@@ -1231,8 +1231,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": -2,
       "description": "Timmy ist ständig nervös. er kann beim geringsten Stress in sich zusammenbrechen.",
       "stats": [
@@ -1259,8 +1259,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 1,
       "description": "Timmy mag es, wenn alles erledigt ist. er arbeitet härter als die meisten anderen, um diesen Zustand zu erreichen, aber seine schwachen Nerven können PAWN_gender ? ihm : ihr zum Verhängnis werden.",
       "stats": [
@@ -1287,8 +1287,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 2,
       "description": "Timmy ist ständig nervös angesichts der Dinge, die erledigt werden müssen. er wird extrem hart arbeiten, um diesen Zustand zu erreichen, aber seine schwachen Nerven können PAWN_gender ? ihm : ihr jederzeit zum Verhängnis werden.",
       "stats": [
@@ -1315,8 +1315,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 2,
       "description": "Timmy fällt es leicht, bei der Sache zu bleiben und sich zu konzentrieren. er erledigt Dinge sehr viel schneller als die meisten anderen.",
       "stats": [
@@ -1341,8 +1341,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 1,
       "description": "Timmy ist von Natur aus PAWN_gender ? ein harter Arbeiter : eine harte Arbeiterin und wird Aufgaben schneller als die meisten anderen erledigen.",
       "stats": [
@@ -1367,8 +1367,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": -1,
       "description": "Timmy ist ein bisschen träge.",
       "stats": [
@@ -1393,8 +1393,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": -2,
       "description": "Timmy liebt das Nichtstun und hasst alles, was produktiv ist. er bewegt sich langsam und lässt sich leicht ablenken.",
       "stats": [
@@ -1419,10 +1419,10 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 2,
-      "description": "replace: Timmys; \"s(/Name)s\"-\"s(/Name)'\"; \"ß(/Name)s\"-\"ß(/Name)'\"; \"z(/Name)s\"-\"z(/Name)'\"; \"x(/Name)s\"-\"x(/Name)'\"; \"ce(/Name)s\"-\"ce(/Name)'\" Psyche ist wie eine mentale Stimmgabel. er ist extrem empfänglich für übersinnliche Phänomene.",
+      "description": "Timmy's Psyche ist wie eine mentale Stimmgabel. er ist extrem empfänglich für übersinnliche Phänomene.",
       "stats": [
         "+80% mentale Sensibilität"
       ],
@@ -1445,10 +1445,10 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 1,
-      "description": "replace: Timmys; \"s(/Name)s\"-\"s(/Name)'\"; \"ß(/Name)s\"-\"ß(/Name)'\"; \"z(/Name)s\"-\"z(/Name)'\"; \"x(/Name)s\"-\"x(/Name)'\"; \"ce(/Name)s\"-\"ce(/Name)'\" Psyche ist ungewöhnlich empfänglich für übersinnliche Phänomene.",
+      "description": "Timmy's Psyche ist ungewöhnlich empfänglich für übersinnliche Phänomene.",
       "stats": [
         "+40% mentale Sensibilität"
       ],
@@ -1471,10 +1471,10 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": -1,
-      "description": "replace: Timmys; \"s(/Name)s\"-\"s(/Name)'\"; \"ß(/Name)s\"-\"ß(/Name)'\"; \"z(/Name)s\"-\"z(/Name)'\"; \"x(/Name)s\"-\"x(/Name)'\"; \"ce(/Name)s\"-\"ce(/Name)'\" Psyche ist nicht im Einklang mit anderen. er wird nicht so stark von übersinnlichen Phänomenen beeinflusst.",
+      "description": "Timmy's Psyche ist nicht im Einklang mit anderen. er wird nicht so stark von übersinnlichen Phänomenen beeinflusst.",
       "stats": [
         "-50% mentale Sensibilität"
       ],
@@ -1497,10 +1497,10 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": -2,
-      "description": "replace: Timmys; \"s(/Name)s\"-\"s(/Name)'\"; \"ß(/Name)s\"-\"ß(/Name)'\"; \"z(/Name)s\"-\"z(/Name)'\"; \"x(/Name)s\"-\"x(/Name)'\"; \"ce(/Name)s\"-\"ce(/Name)'\" Psyche arbeitet auf einer anderen Frequenz als alle anderen. er ist immun gegen übersinnliche Phänomene.",
+      "description": "Timmy's Psyche arbeitet auf einer anderen Frequenz als alle anderen. er ist immun gegen übersinnliche Phänomene.",
       "stats": [
         "-100% mentale Sensibilität"
       ],
@@ -1523,8 +1523,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 1,
       "description": "Timmy lässt sich mehr Zeit beim Zielen. er schießt langsamer als andere, aber dafür genauer.",
       "stats": [
@@ -1555,8 +1555,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": -1,
       "description": "Peng! Peng! Peng! Timmy fackelt nicht lange und drückt ab. er schießt schneller als andere, aber dafür ungenauer.",
       "stats": [
@@ -1587,8 +1587,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 2,
       "description": "Timmy ist außergewöhnlich schön, mit einer exotischen und doch vertrauten Gesichtsform und einem fesselnden Blick. Die Menschen fühlen sich zu PAWN_gender ? ihm : ihr hingezogen, noch bevor er den Mund aufmacht.",
       "stats": [
@@ -1613,8 +1613,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 1,
       "description": "Timmy hat ein hübsches Gesicht, das die Menschen dazu veranlasst, ihn zu mögen.",
       "stats": [
@@ -1639,8 +1639,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": -1,
       "description": "Timmy ist nicht sonderlich schön, was einen subtilen negativen Einfluss auf andere hat.",
       "stats": [
@@ -1665,8 +1665,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": -2,
       "description": "Timmy ist unglaublich hässlich. sein Gesicht erinnert an eine Mischung aus einer unbeholfenen Kinderzeichnung, einem in Formaldehyd eingelegten missgebildeten Fötus und moderner Kunst. Es kostet große Überwindung, ihn bei einem Gespräch ins Gesicht zu schauen.",
       "stats": [
@@ -1691,8 +1691,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 1,
       "description": "Timmy hat von Natur aus ein starkes Immunsystem. er wird viel schneller immun als ein normaler Mensch und kann Krankheiten überleben, die andere töten würden.",
       "stats": [
@@ -1717,8 +1717,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": -1,
       "description": "Timmy hat ein schwaches Immunsystem. er wird häufiger krank als üblich und muss sich regelmäßig mit Krankheiten auseinandersetzen, an denen niemand sonst in der Kolonie erkrankt ist.",
       "stats": [
@@ -1743,8 +1743,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy hat eine dünne Haut und schwache Knochen. er erleidet bei gleichvielen Schlägen mehr Schaden als andere.",
       "stats": [
@@ -1769,8 +1769,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Je weniger Leute in der Fraktion sind, desto glücklicher ist Timmy. Am liebsten ist er allein.",
       "stats": [],
@@ -1791,8 +1791,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy hat ein ausgezeichnetes Gedächtnis, sowohl was das Merken von Informationen als auch das Muskelgedächtnis betrifft. er wird nie vergessen, was er gelernt hat.",
       "stats": [],
@@ -1813,8 +1813,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy hat ein tiefes Verständnis für die verworrenen Muster der dunklen übersinnlichen Energie. er kann unnatürliche Entitäten schneller studieren als andere. er gibt dieses unmenschliche Wissen auch regelmäßig an andere weiter, wenn er die Gelegenheit dazu hat.",
       "stats": [
@@ -1841,8 +1841,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy hat die Fähigkeit, jedem ein besseres Gefühl zu geben und ihn zu inspirieren, sein Bestes zu geben.",
       "stats": [],
@@ -1863,8 +1863,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy hat keine Grundbedürfnisse wie Essen, Schlafen oder Komfort. sein Körper wird von einem unbekannten Mechanismus angetrieben, der seine Augen völlig weiß werden lässt.",
       "stats": [],
@@ -1885,8 +1885,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy ist ein seltsamer Mensch, der von abscheulichen Ideen besessen zu sein scheint. Ein Gespräch mit PAWN_gender ? ihm : ihr ist oft beunruhigend.",
       "stats": [
@@ -1911,8 +1911,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy ist auf seltsame Weise von unnatürlichen Entitäten fasziniert und lässt sich leicht von ihnen in den Bann ziehen.",
       "stats": [
@@ -1937,6 +1937,94 @@
       },
       "defName": "VoidFascination",
       "name": "leere-faszination"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "degree": 2,
+      "description": "Timmy hat eine krankhafte Angst vor Keimen und wäscht sich viel häufiger als andere.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "mysophobie"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "degree": 1,
+      "description": "Timmy ist sehr hygienisch und wäscht sich öfters.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "hygienisch"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 5000,
+      "removePrice": 2000,
+      "degree": -1,
+      "description": "Timmy ist sehr unhygienisch und wird sich seltener waschen.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "unhygienisch"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 5000,
+      "removePrice": 2000,
+      "degree": -2,
+      "description": "Timmy hat ein sehr geringes Sauberkeitsbedürfnis und wäscht sich nur, wenn es unbedingt nötig ist.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "schmutzfink"
     }
   ],
   "races": [
@@ -1944,14 +2032,15 @@
       "data": {
         "customName": false,
         "stats": [
-          "+60.00 Gewicht",
+          "+60.00 Masse",
           "+70% Entflammbarkeit",
           "+$1750 Marktwert",
           "+4.60 Laufgeschwindigkeit",
           "+16.0C Min. Wohlfühltemperatur",
           "+26.0C Max. Wohlfühltemperatur",
           "+75 Ledermenge",
-          "+3 Ehre-Wertigkeit"
+          "+3 Ehre-Wertigkeit",
+          "+75% Wildheit"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -1966,14 +2055,15 @@
       "data": {
         "customName": false,
         "stats": [
-          "+60.00 Gewicht",
+          "+60.00 Masse",
           "+70% Entflammbarkeit",
           "+$1750 Marktwert",
           "+4.60 Laufgeschwindigkeit",
           "+16.0C Min. Wohlfühltemperatur",
           "+26.0C Max. Wohlfühltemperatur",
           "+75 Ledermenge",
-          "+3 Ehre-Wertigkeit"
+          "+3 Ehre-Wertigkeit",
+          "+75% Wildheit"
         ],
         "mod": "Unknown",
         "karmaType": null
