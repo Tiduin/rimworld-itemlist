@@ -81,11 +81,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "visitorgroup",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "skillincrease",
 		"price": 200,
 		"karmatype": "Good"
@@ -99,11 +94,6 @@
 		"abr": "militaryaid",
 		"price": 700,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviveanypawn",
@@ -134,11 +124,6 @@
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "visitcolony",
-		"price": 300,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "randominspire",
@@ -197,7 +182,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -251,5 +236,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 50
+	"total": 47
 }
