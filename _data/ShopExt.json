@@ -2027,50 +2027,6 @@
       "name": "schmutzfink"
     },
     {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. er will prefer fishing above other activities.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Fishing Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VCEF_Fisherman",
-      "name": "fisherman"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 5000,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Psycasts Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VPE_Thrall",
-      "name": "thrall"
-    },
-    {
       "canAdd": true,
       "canRemove": true,
       "addPrice": 2000,
@@ -2169,33 +2125,6 @@
       "enabled": false,
       "name": "Mensch",
       "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+70.00 Masse",
-          "+100% Entflammbarkeit",
-          "-60.0C Min. Wohlfühltemperatur",
-          "+200.0C Max. Wohlfühltemperatur",
-          "+0% Mentale Sensibilität",
-          "+0% Giftresistenz",
-          "+0 Fleischmenge",
-          "+0 Ledermenge",
-          "+0 Tragekapazität",
-          "+0.00% Sozialer Eindruck",
-          "+0.0% Rüstung - Wucht",
-          "+0.0% Rüstung - Schnitt",
-          "+0.0% Rüstung - Hitze"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Ein Zombie.",
-      "defName": "Zombie",
-      "enabled": true,
-      "name": "Zombie",
-      "price": 500
     }
   ]
 }

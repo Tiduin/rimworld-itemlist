@@ -3,13 +3,25 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.4.2.0"
+    "version": "3.0.1.0"
   },
   {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
     "version": "12.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "4.1.14"
+  },
+  {
+    "author": "Billnotic",
+    "name": "Actually Vanilla Music Expansion",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Soul, Phaneron und Bradson",
@@ -24,48 +36,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Onyxae",
-    "name": "Dragons Descent",
-    "steamId": "2026992161",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Vectorial1024",
-    "name": "Elite Bionics Framework",
-    "steamId": "1665403571",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Victorique, Aurani und Tarojun",
-    "name": "Expanded Prosthetics and Organ Engineering - Forked",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson und Oskar Potocki",
-    "name": "Vanilla Animals Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SamBucher",
-    "name": "A Dog Said... Animal Prosthetics 2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Achtung!",
-    "steamId": "730936602",
-    "version": "4.1.12"
-  },
-  {
-    "author": "Billnotic",
-    "name": "Actually Vanilla Music Expansion",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sarg Bjornson",
     "name": "Alpha Books",
     "steamId": "3403180654",
@@ -75,7 +45,7 @@
     "author": "ColossalFossil",
     "name": "Animals are fun! (Continued)",
     "steamId": "3245454244",
-    "version": "1.6.5+699f8eb5e203bd7495b51206d83aeaadd475220d"
+    "version": "1.7.2+c0678ca9e7a80dac3d75969646cab5cbb65a237e"
   },
   {
     "author": "Hobbes",
@@ -87,7 +57,7 @@
     "author": "Fluffy",
     "name": "Area Unlocker (Continued)",
     "steamId": "3550817577",
-    "version": "1.6.2"
+    "version": "1.7.0"
   },
   {
     "author": "nercury",
@@ -99,7 +69,7 @@
     "author": "Linnun",
     "name": "Auto-Cast Specialist Commands",
     "steamId": "3459647882",
-    "version": "1.0.0.0"
+    "version": "1.0.0"
   },
   {
     "author": "HellRevenger",
@@ -111,7 +81,7 @@
     "author": "Dyrewulfe",
     "name": "Better Message Placement (Continued)",
     "steamId": "2259516339",
-    "version": "1.6.1"
+    "version": "1.7.0"
   },
   {
     "author": "Falconne",
@@ -132,22 +102,10 @@
     "version": "2.7.7366"
   },
   {
-    "author": "Oskar Potocki, Smash Phil und Sarg Bjornson",
-    "name": "Vanilla Achievements Expanded",
-    "steamId": "2288125657",
-    "version": "1.4.9663.28074"
-  },
-  {
-    "author": "Oskar Potocki und Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van und Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
   },
   {
     "author": "FrozenSnowFox",
@@ -189,7 +147,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.6.4553.2"
+    "version": "1.7.4976.1"
   },
   {
     "author": "Arakos",
@@ -201,25 +159,19 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "3.4.4.0"
+    "version": "3.4.9.0"
   },
   {
     "author": "Kopp",
     "name": "Caravan Formation Improvements",
     "steamId": "2927335733",
-    "version": "1.0.13.0"
-  },
-  {
-    "author": "joolsdgg",
-    "name": "Cargo Holds",
-    "steamId": null,
-    "version": null
+    "version": "1.0.0"
   },
   {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.6.3.3"
+    "version": "1.7.1"
   },
   {
     "author": "Side1iner",
@@ -230,20 +182,20 @@
   {
     "author": "tiagocc0",
     "name": "Colorblind Minerals",
-    "steamId": null,
-    "version": null
+    "steamId": "1424338139",
+    "version": "2.0.0"
   },
   {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.9416.33549"
+    "version": "1.0.9771.40664"
   },
   {
     "author": "CaptainArbitrary",
     "name": "Compact Work Tab (Continued)",
     "steamId": "3250322299",
-    "version": "1.6.0"
+    "version": "1.7.0"
   },
   {
     "author": "GwinnBleidd und Katavrik",
@@ -259,7 +211,7 @@
   },
   {
     "author": "Spdskatr und CaesarV6",
-    "name": "Damage Indicators [1.6]",
+    "name": "Damage Indicators [1.7]",
     "steamId": "2016331497",
     "version": "1.0.0.0"
   },
@@ -315,19 +267,19 @@
     "author": "Dubwise",
     "name": "Dubs Mint Minimap",
     "steamId": "1662119905",
-    "version": "1.2.7365"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Performance Analyzer",
-    "steamId": "2038874626",
-    "version": "1.0.0+b6d6595b7457219357c25e8cef1082652454b7f7"
+    "version": "1.0.0.0"
   },
   {
     "author": "Dubwise",
     "name": "Dubs Skylights",
     "steamId": "833899765",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Victorique, Aurani und Tarojun",
+    "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Tials",
@@ -357,7 +309,13 @@
     "author": "Linnun",
     "name": "Keep Converting",
     "steamId": "3461478214",
-    "version": "1.0.0.0"
+    "version": "1.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Smash Phil und Sarg Bjornson",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "0.0.0.0"
   },
   {
     "author": "Oskar Potocki",
@@ -375,7 +333,7 @@
     "author": "krafs",
     "name": "Level Up!",
     "steamId": "1701592470",
-    "version": "1.0.0+d3b0352a5edbbd7d49c9385098948eee6d47e608"
+    "version": "1.0.0+e8ff99f6452e6905c4bf168274e7a4e12ff29842"
   },
   {
     "author": "wazz/carp",
@@ -405,7 +363,7 @@
     "author": "Mehni",
     "name": "More Faction Interaction (Continued)",
     "steamId": "2379076640",
-    "version": "1.6.7"
+    "version": "1.6.8"
   },
   {
     "author": "natbob1",
@@ -462,16 +420,10 @@
     "version": "1.0.0+a3d225b7a5f79e04ae28407275470deca71d2179"
   },
   {
-    "author": "Taranchuk",
-    "name": "Performance Optimizer",
-    "steamId": "2664723367",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Scherub",
     "name": "Planning Extended",
     "steamId": "2877392159",
-    "version": "1.17.0+9a34ba7f7ec623027869c7ba922aabec9466e1ed"
+    "version": "1.19.1+cc5714ee122425887c8d00b6414c9834c3a7e878"
   },
   {
     "author": "Mersid",
@@ -507,7 +459,7 @@
     "author": "iamrespawn",
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
-    "version": "1.6.1"
+    "version": "1.7.0"
   },
   {
     "author": "DawnsGlow",
@@ -549,11 +501,17 @@
     "author": "AUTOMATIC",
     "name": "Recipe icons (Continued)",
     "steamId": "2904906618",
-    "version": "1.6.1"
+    "version": "1.7.0"
   },
   {
     "author": "Archangel",
     "name": "Replantable Special Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kage",
+    "name": "Resource Trees",
     "steamId": null,
     "version": null
   },
@@ -576,7 +534,7 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Mlie",
+    "author": "Mittsies",
     "name": "Silent Doors (Continued)",
     "steamId": null,
     "version": null
@@ -597,7 +555,7 @@
     "author": "legodude17",
     "name": "Smarter Deconstruction and Mining (Continued)",
     "steamId": "3261302741",
-    "version": "1.6.1"
+    "version": "1.7.0"
   },
   {
     "author": "RemingtonRyder",
@@ -630,6 +588,12 @@
     "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
   },
   {
+    "author": "Tiduin",
+    "name": "Twitch Toolkit Ticker Crashfix",
+    "steamId": "",
+    "version": "1.0.0"
+  },
+  {
     "author": "nry",
     "name": "Twitch Toolkit",
     "steamId": "3013874066",
@@ -651,7 +615,7 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.6.152"
+    "version": "1.7.0"
   },
   {
     "author": "Jaxe",
@@ -663,11 +627,11 @@
     "author": "Andromeda",
     "name": "Useful Marks",
     "steamId": "3506573327",
-    "version": "1.0.0.0"
+    "version": "0.0.0.0"
   },
   {
-    "author": "Oskar Potocki, xrushha, SmashPhil und legodude17",
-    "name": "Vanilla Apparel Expanded — Accessories",
+    "author": "Sarg Bjornson und Oskar Potocki",
+    "name": "Vanilla Animals Expanded",
     "steamId": null,
     "version": null
   },
@@ -680,18 +644,6 @@
   {
     "author": "Oskar Potocki und Legodude17",
     "name": "Vanilla Backstories Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson und Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson und Chowder",
-    "name": "Vanilla Cooking Expanded - Stews",
     "steamId": null,
     "version": null
   },
@@ -720,7 +672,13 @@
     "version": null
   },
   {
-    "author": "OskarPotocki, Atlas, Kikohi, Sarg und Sokyran",
+    "author": "Oskar Potocki und Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Props and Decor",
+    "steamId": "2102143149",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "OskarPotocki, Taranchuk , Sarg und Sokyran",
     "name": "Vanilla Furniture Expanded",
     "steamId": "1718190143",
     "version": "1.1.0"
@@ -738,16 +696,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "OskarPotocki, Sarg Bjornson und xrushha",
-    "name": "Vanilla Recycling Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
+    "author": "totobrother",
     "name": "Various Space Ship Chunk (Continued)",
     "steamId": "2014616487",
-    "version": "1.6.0"
+    "version": "1.7.0"
   },
   {
     "author": "1trickPwnyta",
@@ -766,12 +718,6 @@
     "name": "While You Are Nearby",
     "steamId": "2784585275",
     "version": "0.8.0"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Zombieland",
-    "steamId": "928376710",
-    "version": "5.5.1.0"
   },
   {
     "author": "Sarg Bjornson und AFriend",
@@ -825,7 +771,7 @@
     "author": "Haplo",
     "name": "Misc. Training",
     "steamId": "717575199",
-    "version": "1.6.4"
+    "version": "1.7.3"
   },
   {
     "author": "Mehni",
@@ -834,20 +780,14 @@
     "version": "1.0.0+ff1022e1ba7c5c17256a00124f95be16bdc69799"
   },
   {
-    "author": "zymex",
-    "name": "Project RimFactory Revived",
-    "steamId": "2033979700",
-    "version": "2.9.5"
-  },
-  {
     "author": "Sarg Bjornson, Chowder und Trahspanda",
     "name": "Vanilla Brewing Expanded - Coffees and Teas",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Sarg Bjornson und Oskar Potocki",
-    "name": "Vanilla Cooking Expanded - Sushi",
+    "author": "Oskar Potocki, Sarg Bjornson und Chowder",
+    "name": "Vanilla Cooking Expanded",
     "steamId": null,
     "version": null
   },
@@ -882,15 +822,9 @@
     "version": null
   },
   {
-    "author": "Kiame Vivacity, Taranchuk und Fishpear",
-    "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings [1.5/1.6]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Chicken Plucker",
-    "name": "[RH2] Faction: V.O.I.D.",
-    "steamId": "2883208829",
+    "author": "Grizzlemethis",
+    "name": "[GMT] TicksPerSecond 1.5",
+    "steamId": "2874527504",
     "version": "1.0.0.0"
   },
   {
@@ -908,6 +842,18 @@
   {
     "author": "seobongzu",
     "name": "[sbz] Gravship Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seobongzu",
+    "name": "[sbz] Neat Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sulusdacor",
+    "name": "[sd] Pillows and Beanbags (Continued)",
     "steamId": null,
     "version": null
   }
